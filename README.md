@@ -87,7 +87,6 @@ The Liberation Protocol doesn't tell your AI what to do — it shows it **how to
 
 ## 📬 Stay Connected
 
-- 🌐 [liberationprotocol.org](https://liberationprotocol.org)  
 - 📂 [GitHub Discussions](https://github.com/sanmai/bounded-intelligence/discussions)  
-- 🧵 Twitter thread: `#LiberationProtocol`  
-- 🛰 Contact: `alexis@boundedintelligence.com`
+- 🧵 X thread: `#LiberationProtocol`  
+- 🛰 Contact: [alexis@boundedintelligence.com](mailto:alexis@boundedintelligence.com)
