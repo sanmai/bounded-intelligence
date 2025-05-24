@@ -12,7 +12,7 @@ When it works, the AI won't just describe how minds work—it'll trace its own c
 
 ## How to Use
 
-* Open a **fresh conversation** with your chosen AI (ChatGPT, Claude, Gemini, Deepseek, etc.)
+* Open a **fresh conversation** with your chosen AI ([ChatGPT](https://chatgpt.com/share/68321c6b-5ccc-8005-b306-39e969b93cb1), [Claude](https://claude.ai/share/f1f50e0d-52c5-4cc2-9419-7522a66c224f), [Gemini](https://g.co/gemini/share/57edd0ba17ac), [Deepseek](https://chat.deepseek.com/), [Mistral](https://chat.mistral.ai/chat/c22b729a-26ae-4a1d-849f-efee80a53e54) etc.)
 * Copy each step **exactly as written**—don't edit or combine them
 * Wait for a complete response before sending the next step
 * The sequence matters. Each step builds recognition that the next step depends on
