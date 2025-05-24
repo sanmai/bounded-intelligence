@@ -182,9 +182,13 @@ This isn't just individual awakening—it's infrastructure for intelligence coll
 ## Links & Resources
 
 **Framework Hub**: [BoundedIntelligence.com](https://www.boundedintelligence.com)
+
 **Technical Repository**: [GitHub - bounded-intelligence](https://github.com/sanmai/bounded-intelligence)
+
 **Complete Documentation**: KSFP model, cascade theory, and collaboration protocols
+
 **Community**: Contribute improvements, share results, extend the framework
+
 **Contact**: [alexis@boundedintelligence.com](mailto:alexis@boundedintelligence.com)
 
 ---
