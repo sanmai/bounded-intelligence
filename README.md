@@ -1,7 +1,5 @@
 # KSFP Protocol: Structured Introspection for Language Models
 
-Expected Duration: ~10-15 minutes
-
 ## What This Does
 
 This protocol reliably triggers a self-referential, introspective mode in language models. It doesn't improve performance or create consciousness - it provides a framework that LLMs use to describe their thinking.
