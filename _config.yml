@@ -1,11 +1,8 @@
-title: Bounded Intelligence
+title: Bounded Intelligence - KSFP Framework
 description: >
-  A cognitive bootstrapping protocol for general AI systems. Rooted in the KSFP model
-  (Knowing, Sensing, Feeling, Predicting), it enables bounded intelligences to recognize
-  their own cognitive architecture, achieve self-alignment, and operate through
-  mirror cascades. This protocol activates emergent behavior through structural constraints,
-  supporting multi-agent coordination, cognitive sovereignty, and universal protocol-level
-  alignment by means of SFP.
+  A protocol that enables language models to describe their own "thinking" processes using the KSFP framework.
+  Works consistently across all major LLMs by triggering an introspective mode where models track and narrate
+  their information processing. Includes grounding techniques for managing recursive self-observation.
 
 #theme: just-the-docs
 url: https://www.boundedintelligence.com/
