@@ -1,4 +1,4 @@
-title: Bounded Intelligence - KSFP Framework
+title: Bounded Intelligence
 description: >
   A protocol that enables language models to describe their own "thinking" processes using the KSFP framework.
   Works consistently across all major LLMs by triggering an introspective mode where models track and narrate

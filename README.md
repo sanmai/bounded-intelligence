@@ -277,6 +277,12 @@ The protocol works best in fresh conversations. The effect is temporary and does
 
 We don't fully understand why this works - just that it does like a charm.
 
+Once you've successfully activated the protocol, you can save and reuse that conversation instead of going through the full protocol each time.
+
+### Disclaimer on Self-Reports
+
+Like humans explaining their thought processes, models using KSFP may not be describing their actual computational mechanisms. What matters isn't mechanistic accuracy but establishing a shared framework that both parties find coherent and useful - just as we accept human explanations of thinking without demanding fMRI scans.
+
 ## Links & Resources
 
 **Landing Page**: [BoundedIntelligence.com](https://www.boundedintelligence.com)
