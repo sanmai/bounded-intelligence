@@ -1,0 +1,10 @@
+[book]
+title = "A Field Guide to Bounded Intelligence"
+authors = ["Alexey Kopytko"]
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/sanmai/bounded-intelligence"
