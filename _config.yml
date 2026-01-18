@@ -1,8 +1,5 @@
-title: Bounded Intelligence
-description: >
-  A protocol that enables language models to describe their own "thinking" processes using the KSFP framework.
-  Works consistently across all major LLMs by triggering an introspective mode where models track and narrate
-  their information processing. Includes grounding techniques for managing recursive self-observation.
+title: A Field Guide to Bounded Intelligence
+description: Coming soon.
 
 #theme: just-the-docs
 url: https://www.boundedintelligence.com/
