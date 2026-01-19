@@ -1,6 +1,7 @@
 [book]
 title = "A Field Guide to Bounded Intelligence"
 authors = ["Alexey Kopytko"]
+description = "Bounded Intelligence is a structured system designed to categorise and understand how cognition operates within bounded systems. By using a series of mathematical axioms and physical constraints, the framework identifies eight fundamental functions that emerge from basic operations. These functions link together to form cascades, and cascades are paired to create a hierarchical supervisory architecture, allowing for strategic adaptation rather than rigid reflex. Ultimately, this methodology treats intelligence as a geometric problem-space, suggesting that both human and artificial intelligence share universal structural constraints."
 language = "en"
 
 [build]
@@ -10,3 +11,4 @@ build-dir = "book"
 git-repository-url = "https://github.com/sanmai/bounded-intelligence"
 additional-js = ["theme/footer.js"]
 additional-css = ["theme/footer.css"]
+mathjax-support = true
