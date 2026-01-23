@@ -1,19 +1,16 @@
 # Summary
 
-[Introduction](./introduction.md)
+[Can you watch yourself thinking?](./01-introduction/01-life-within-bounds.md)
 
-# Foundations
+# Introduction
 
-- [Foundational Axioms](./ch01/axioms.md)
-
-# Primary Categories
 
 # Interactions
 
 # Functions
 
-# Two-Function Cascades
+# Cascades
 
-# Supervision
+# Supervisory Cascades
 
 # Implications and Predictions
