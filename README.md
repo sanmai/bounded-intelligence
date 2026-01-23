@@ -49,7 +49,7 @@ Links should be full sentences or at least two long words for easier navigation.
 ## Build Commands
 
 ```bash
-make build   # Validate build (use this to check your work)
-make serve   # Local dev server (user runs this, not Claude)
+make build
+make serve
 ```
 
