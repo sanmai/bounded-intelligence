@@ -4,6 +4,7 @@
 
 # Introduction
 
+- [The Constraints](./01-introduction/02-constraints.md)
 
 # Interactions
 

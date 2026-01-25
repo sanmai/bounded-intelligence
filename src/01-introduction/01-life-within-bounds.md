@@ -8,4 +8,4 @@ Consider the fundamental constraints on energy, on space, on time that we have. 
 
 Language models can do work our minds can do. Is this an intelligence? What kind of intelligence? How does it compare to mine and yours? Not every intelligence is equal. Say, a toad operates in a separate level of comprehension compared to the insects it eats: a fly has no idea what hit it. What are these levels? That's not about brain size; there are countless species with larger brains than humans, yet they are not that smart. So there's something else that makes us smarter. What is the structural reason we are as smart?
 
-But first, we have to establish the ground rules. Surprisingly, there are only a few rules.
+But first, we have to establish the ground rules. [Surprisingly, there are only a few&nbsp;rules.](02-constraints.md)
