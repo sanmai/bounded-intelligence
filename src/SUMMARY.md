@@ -5,6 +5,7 @@
 # Introduction
 
 - [The Constraints](./01-introduction/02-constraints.md)
+- [The Membrane](./01-introduction/03-membrane.md)
 
 # Interactions
 

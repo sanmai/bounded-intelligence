@@ -16,4 +16,4 @@ Life had to increase complexity only as much as required. Sufficiently so.
 
 Just like if there's an apple in your hand, there's an apple in your mind. If there's a physical distinction, then there's a conceptual distinction. I'm using the physical structure as a map to find the conceptual structure and discover meaning.
 
-Let's see how these constraints were in play 4 billion years ago.
+Let's see how these constraints [were in play 4 billion years ago](./03-membrane.md).
