@@ -1,4 +1,5 @@
-.content main p {
+.content main p,
+.content main li {
   font-size: 1.8rem;
 }
 
