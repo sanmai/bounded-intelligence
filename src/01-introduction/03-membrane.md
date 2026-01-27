@@ -15,4 +15,4 @@ A book's weight is an external concept, measurable without opening it. The narra
 
 A conversation is internal to the room (an outsider must cross to perceive it), external to each participant at the table (they perceive it directly, no boundary to cross).
 
-Early life didn't stop at the fragile fatty acid shells; it needed semipermeable membranes that were selectively open, and they uncovered more categories.
+Early life didn't stop at the fragile fatty acid shells; it needed semipermeable membranes that were selectively open, [and they uncovered more categories](../02-operations/01-four-operations.md).

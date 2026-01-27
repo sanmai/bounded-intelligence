@@ -9,6 +9,8 @@
 
 # Operations
 
+- [The Four Operations](./02-operations/01-four-operations.md)
+
 # Functions
 
 # Cascades
