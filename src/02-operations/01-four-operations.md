@@ -4,7 +4,11 @@ Even a primitive membrane created a tiny physical separation, allowing an ion gr
 
 With a charge difference, you have a work capacity: the cell moved from being a prey of its environment to being an agent that could manage inputs and outputs, inner and outer states.
 
-The early cells went from passive diffusion to active harvesting for nutrients and building materials (moving ions from outside to inside through the membrane), from simple osmotic pressure regulation to active waste management (moving ions from inside to outside through the membrane), from background noise to active sensing (by detecting ions attached outside), and from brownian motion to structural state (by detecting ions attached inside).
+The early cells went from
+- passive diffusion to active harvesting for nutrients and building materials (moving ions from outside to inside _through_ the membrane)
+- simple osmotic pressure regulation to active waste management (moving ions from inside to outside _through_ the membrane)
+- background noise to active sensing (by detecting ions attached outside)
+- Brownian motion to structural state (by detecting ions attached inside)
 
 Early life went from knowing one categorical distinction to learning four primitive operations, single movements across or along the boundary.
 
@@ -20,6 +24,8 @@ The four operations:
 - Sense: External signals detected without crossing.
 - Feel: Internal states detected at the boundary.
 - Predict: Internal information externalized across the boundary.
+
+At a glance:
 
 |                  | **To Inside** | **To Outside** |
 |------------------|---------------|----------------|
