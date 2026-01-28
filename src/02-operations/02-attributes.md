@@ -20,7 +20,7 @@ So, Know and Sense share the same value for the unknown attribute B, while Feel 
 
 Alternatively, Know and Predict could share the same value for a different unknown attribute B', while Feel and Sense share the opposite value of attribute B'. Both attributes, B and B', satisfy our requirement.
 
-If we look at the truth table with all three attributes, we immediately recognize the binary logical function XOR (exclusive OR). So B and B' are independent of each other, but neither is independent of A (knowing A and B determines B' while knowing A and B' determines B).
+If we look at the truth table with all three attributes, we immediately recognize the binary logical function XOR (exclusive OR). 
 
 | A | B | B' |  
 |---|---|----|
@@ -28,6 +28,8 @@ If we look at the truth table with all three attributes, we immediately recogniz
 | 1 | 0 | 1  |
 | 0 | 1 | 1  |
 | 1 | 1 | 0  |
+
+So B and B' are independent of each other, but neither is independent of A (knowing A and B determines B' while knowing A and B' determines B).
 
 How does XOR work in action? Close one eye while keeping the other open - you've made a wink. This gesture exists only when your eyelids are in different states. Both eyes open? No wink. Both closed? No wink. Different states? Wink appears. That's XOR, creating something new from differences.
 
