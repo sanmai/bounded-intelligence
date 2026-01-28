@@ -29,6 +29,8 @@ If we look at the truth table with all three attributes, we immediately recogniz
 | 0 | 1 | 1  |
 | 1 | 1 | 0  |
 
+How does XOR work in action? Close one eye while keeping the other open - you've made a wink. This gesture exists only when your eyelids are in different states. Both eyes open? No wink. Both closed? No wink. Different states? Wink appears. That's XOR, creating something new from differences.
+
 We are looking at more than we bargained for: a third binary attribute that is a valid classification pair to the first attribute. Both B and B' can be considered a third attribute relative to each other.
 
 Whichever attribute we chose as the canonical attribute (a standard representation, not a superior one) for the classification basis, the other emerges as the third. Neither B nor B' is "more primary" because they're both describing the exact structural requirement: the second bit.
