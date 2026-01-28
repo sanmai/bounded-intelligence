@@ -10,6 +10,7 @@
 # Operations
 
 - [The Four Operations](./02-operations/01-four-operations.md)
+- [New Attributes](./02-operations/02-attributes.md)
 
 # Functions
 

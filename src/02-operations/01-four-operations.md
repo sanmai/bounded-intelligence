@@ -38,4 +38,4 @@ For each physical distinction, there's a conceptual category. We started with on
 
 How do we know we are discovering nature rather than imposing categories? Just as a centipede doesn't need to understand leg coordination to walk, a protocell knew nothing about signals and information. Every pattern we identify must operate in systems that have zero concept of what they're doing. If it requires understanding to work, we failed.
 
-But how do we tell if an idea is an idea of knowing or feeling? One question isn't enough.
+But how do we tell if an idea is an idea of knowing or feeling? [One question isn't enough.](./02-attributes.md)
