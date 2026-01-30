@@ -54,4 +54,4 @@ For operations, we have
 
 This constrained triple's redundancy is practically convenient: classify using any two, then test it with the third. If the third disagrees, it means you made an error somewhere. 
 
-But as with dance moves, the next logical step is to name B and A^B.
+But as with dance moves, the next logical step is [to name B and A^B](./03-naming-attributes.md).
