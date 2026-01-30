@@ -14,6 +14,6 @@ Life had to increase complexity only as much as required. Sufficiently so.
 
 ## Correspondence
 
-Just like if there's an apple in your hand, there's an apple in your mind. If there's a physical distinction, then there's a conceptual distinction. I'm using the physical structure as a map to find the conceptual structure and discover meaning.
+Just like if there's an apple in your hand, there's an apple in your mind. If there's a physical distinction, then there's a conceptual distinction. If the distinction counts, it is in the language. I'm using the physical structure as a map to find the conceptual structure and discover meaning. Our language is the evidence that the map is accurate.
 
 Let's see how these constraints [were in play 4 billion years ago](./03-membrane.md).
