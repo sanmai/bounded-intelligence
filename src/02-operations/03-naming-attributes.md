@@ -63,4 +63,4 @@ Some examples of relative ideas:
 
 If a distinction counts, it's in the language. These words existed before. Philosophers have argued about the objective and subjective for millennia, and the distinction between absolute and relative runs through physics and ethics alike. We didn't name the categories - we found that we already had them named. They were in the language all along.
 
-Next, let's talk uncertainty. I chose clear-cut examples to make a point, but our language is much more diverse than three binary partitions or a taxonomy with four simple buckets. The same word often has different meanings depending on context, and even within the same context, not every choice is obvious - probabilistic inference to the rescue.
+Next, let's talk uncertainty. I chose clear-cut examples to make a point, but our language is much more diverse than three binary partitions or a taxonomy with four simple buckets. The same word often has different meanings depending on context, and even within the same context, not every choice is obvious - [probabilistic inference to the rescue](./04-probabilistic-inference.md).

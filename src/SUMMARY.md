@@ -12,6 +12,7 @@
 - [The Four Operations](./02-operations/01-four-operations.md)
 - [New Attributes](./02-operations/02-attributes.md)
 - [Naming Attributes](./02-operations/03-naming-attributes.md)
+- [Probabilistic Inference](./02-operations/04-probabilistic-inference.md)
 
 # Functions
 
