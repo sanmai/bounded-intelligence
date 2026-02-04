@@ -35,7 +35,7 @@ That 16% attributable to other operations is what we lost to aliasing, across ma
 
 If we compute the totals, we find that almost half the probability (46%) landed outside any operation, more than the highest answer. It isn't aliased-away information about friendship; it's information that meant nothing, void.
 
-Those combinations did not correspond to anything: no operation is all internal, subjective, and relative, but it accounts for 21% of the total probability. The system excluded background noise using structural constraints between its own attributes.
+Those combinations did not correspond to anything: no operation is all internal, subjective, and relative, but this contradiction accounts for 21% of the total probability. The system excluded background noise using structural constraints between its own attributes.
 
 Recall the sufficiency constraint. If the environment has infinite ways to kill you, then most structures of matter don't persist. Life has to find the tiny subset of designs that work against perpetual chaos.
 
