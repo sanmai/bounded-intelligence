@@ -9,6 +9,5 @@ build-dir = "book"
 
 [output.html]
 git-repository-url = "https://github.com/sanmai/bounded-intelligence"
-additional-js = ["theme/footer.js"]
 additional-css = ["theme/footer.css", "theme/typography.css"]
 mathjax-support = true
