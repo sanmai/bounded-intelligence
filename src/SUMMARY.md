@@ -16,6 +16,8 @@
 
 # Functions
 
+- [From Operations to Functions](./03-functions/01-eight-functions.md)
+
 # Cascades
 
 # Supervisory Cascades

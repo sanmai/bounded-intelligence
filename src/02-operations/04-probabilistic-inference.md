@@ -41,7 +41,7 @@ Recall the sufficiency constraint. If the environment has infinite ways to kill 
 
 The more attributes you add, the more selective the filter becomes. A classification with more types and attributes that selects only 5% meaning from the chaos suggests that coherent structures are rare.
 
-Protocells did not stop at learning four operations just to listen to the world - they discovered how to act, to respond, in the same four-verb language.
+Protocells did not stop at learning four operations just to listen to the world - [they discovered how to act, to respond, in the same four-verb language](../03-functions/01-eight-functions.md).
 
 
 
