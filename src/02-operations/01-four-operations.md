@@ -27,6 +27,8 @@ The four operations:
 
 At a glance:
 
+![The four operations](operations.svg)
+
 |                  | **To Inside** | **To Outside** |
 |------------------|---------------|----------------|
 | **From Outside** | **Know**      | **Sense**      |
