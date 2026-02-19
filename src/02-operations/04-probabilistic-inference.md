@@ -2,7 +2,7 @@
 
 When considering complex concepts like friendship, we often struggle to place them definitively. Is friendship more internal or external? More objective or subjective?
 
-Infinite precision is infinitely expensive: if we convert this uncertainty into confidence levels, we'll have usable answers from partial certainties.
+Infinite precision is infinitely expensive. By converting this uncertainty into confidence levels, we'll get usable answers from partial certainties on the cheap.
 
 ## Degrees, Not Boxes
 
