@@ -14,14 +14,7 @@ mathjax-support = true
 
 [output.pdf]
 optional = true
-display-header-footer = true
-print-background = true
-scale = 0.8
 paper-width = 8.27
 paper-height = 11.69
-margin-top = 0.75
-margin-bottom = 0.75
-margin-left = 0.75
-margin-right = 0.75
-header-template = "<span></span>"
+display-header-footer = true
 footer-template = "<p style='font-size:10px; margin-left: 48%'><span class='pageNumber'></span></p>"
