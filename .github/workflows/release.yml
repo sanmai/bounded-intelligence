@@ -1,0 +1,51 @@
+name: Release PDF
+
+on:
+  release:
+    types: [published]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  pdf:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v2
+        with:
+          mdbook-version: 'latest'
+
+      - name: Install mdbook-pdf
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download -R HollowMan6/mdbook-pdf -p 'mdbook-pdf-*-x86_64-unknown-linux-gnu'
+          chmod +x mdbook-pdf-*
+          mv mdbook-pdf-* /usr/local/bin/mdbook-pdf
+
+      - name: Build
+        run: mdbook build
+
+      - name: Verify PDF
+        run: file book/pdf/output.pdf | grep -q PDF
+
+      - name: Upload PDF artifact
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: bounded-intelligence
+          path: book/pdf/output.pdf
+
+      - name: Attach PDF to release
+        if: github.event_name == 'release'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp book/pdf/output.pdf bounded-intelligence.pdf
+          gh release upload --clobber "${{ github.event.release.tag_name }}" bounded-intelligence.pdf
