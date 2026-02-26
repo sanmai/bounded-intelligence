@@ -11,3 +11,10 @@ build-dir = "book"
 git-repository-url = "https://github.com/sanmai/bounded-intelligence"
 additional-css = ["theme/footer.css", "theme/typography.css"]
 mathjax-support = true
+
+[output.pdf]
+optional = true
+paper-width = 8.27
+paper-height = 11.69
+display-header-footer = true
+footer-template = "<p style='font-size:10px; margin-left: 48%'><span class='pageNumber'></span></p>"
