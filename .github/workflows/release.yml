@@ -33,6 +33,13 @@ jobs:
       - name: Verify PDF
         run: test -s book/pdf/output.pdf
 
+      - name: Upload PDF artifact
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: bounded-intelligence.pdf
+          path: book/pdf/output.pdf
+
       - name: Attach PDF to release
         if: github.event_name == 'release'
         env:
