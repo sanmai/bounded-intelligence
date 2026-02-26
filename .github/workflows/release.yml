@@ -48,4 +48,4 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           cp book/pdf/output.pdf bounded-intelligence.pdf
-          gh release upload "${{ github.event.release.tag_name }}" bounded-intelligence.pdf
+          gh release upload --clobber "${{ github.event.release.tag_name }}" bounded-intelligence.pdf
