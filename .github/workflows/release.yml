@@ -1,0 +1,32 @@
+name: Release PDF
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v2
+        with:
+          mdbook-version: 'latest'
+
+      - name: Install mdbook-pdf
+        run: cargo install mdbook-pdf
+
+      - name: Build
+        run: mdbook build
+
+      - name: Attach PDF to release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >
+          gh release upload "${{ github.event.release.tag_name }}"
+          book/pdf/output.pdf#bounded-intelligence.pdf
