@@ -44,6 +44,6 @@ jobs:
         if: github.event_name == 'release'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: >
-          gh release upload "${{ github.event.release.tag_name }}"
-          book/pdf/output.pdf#bounded-intelligence.pdf
+        run: |
+          cp book/pdf/output.pdf bounded-intelligence.pdf
+          gh release upload "${{ github.event.release.tag_name }}" bounded-intelligence.pdf
