@@ -37,7 +37,7 @@ jobs:
         if: github.event_name == 'pull_request'
         uses: actions/upload-artifact@v4
         with:
-          name: bounded-intelligence.pdf
+          name: bounded-intelligence
           path: book/pdf/output.pdf
 
       - name: Attach PDF to release
