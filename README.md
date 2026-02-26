@@ -1,12 +1,14 @@
 # A Field Guide to Bounded Intelligence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18786332.svg)](https://doi.org/10.5281/zenodo.18786332)
+
 Source for [boundedintelligence.com](https://www.boundedintelligence.com)
 
 Built with [mdBook](https://rust-lang.github.io/mdBook/).
 
 ## File Structure Convention
 
-The book uses numbered part directories with numbered section files:
+The book uses zero-padded hyphenated numbered part directories with zero-padded hyphenated numbered section files:
 
 ```
 src/
@@ -15,10 +17,7 @@ src/
     01-life-within-bounds.md
     02-ground-rules.md
   02-interactions/        # 4 interactions
-    01-knowing.md
-    02-sensing.md
-    03-feeling.md
-    04-predicting.md
+    01-*.md
   03-functions/           # 8 functions
     01-*.md ...
   04-cascades/            # 16 cascades
@@ -40,7 +39,7 @@ src/
 - **Subdirectories**: For grouping related content (e.g., attributes)
 - **Zero-padding**: I use `01-` through `31-` for consistent sorting
 
-The numbering is for filesystem navigation convenience where SUMMARY.md defines the actual reading order.
+The numbering is for filesystem navigation convenience, where SUMMARY.md defines the actual reading order.
 
 ### Accessibility
 
