@@ -1,6 +1,6 @@
 /.git*                export-ignore
 /Makefile             export-ignore
-/theme/
+/theme/*
 
 # Test with:
 # git archive --format=tar HEAD | tar t
