@@ -37,7 +37,7 @@ jobs:
 
       - name: Upload PDF artifact
         if: github.event_name == 'pull_request'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: bounded-intelligence
           path: book/pdf/output.pdf
