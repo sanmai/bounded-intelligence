@@ -1,0 +1,24 @@
+{
+  "upload_type": "publication",
+  "publication_type": "book",
+  "title": "A Field Guide to Bounded Intelligence",
+  "creators": [
+    {
+      "name": "Kopytko, Alexey",
+      "orcid": "0000-0001-8457-0956"
+    }
+  ],
+  "description": "Bounded Intelligence is a structured system designed to categorise and understand how cognition operates within bounded systems. By using a series of mathematical axioms and physical constraints, the framework identifies eight fundamental functions that emerge from basic operations. These functions link together to form cascades, and cascades are paired to create a hierarchical supervisory architecture, allowing for strategic adaptation rather than rigid reflex.",
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "intelligence",
+    "cognition"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.boundedintelligence.com",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

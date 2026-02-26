@@ -1,0 +1,8 @@
+/.git*         export-ignore
+/Makefile      export-ignore
+/theme/        export-ignore
+/CNAME         export-ignore
+/README.md     export-ignore
+
+# Test with:
+# git archive --format=tar HEAD | tar t
