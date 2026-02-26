@@ -30,12 +30,12 @@ jobs:
         run: mdbook build
 
       - name: Copy CNAME
-        run: cp CNAME book/
+        run: cp CNAME book/html/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./book
+          path: ./book/html
 
   deploy:
     environment:
