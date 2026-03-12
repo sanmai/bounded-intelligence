@@ -20,3 +20,12 @@ Photons or sounds, objective external signals, cannot paint the whole picture al
 
 I used "color" as a bridge idea to study how the Know to Predict function works. Still, I ultimately settled on Impression as it captures what the function does, internalizes objective signals (like light wavelengths), and externalizes subjective qualities, beyond simply capturing a singular kind of results this function produces.
 
+## Know → Sense: Identification
+
+You are a seeker in a hide-and-seek game. You enter a living room, and after a few moments, you hear a rustling sound of a candy wrapper. Turn around, and there it is - a familiar shape behind a curtain. For adults, this is where the real game of joyful suspense begins: pretend you did not find the child, keep looking around.
+
+But for us, let's focus on the sound reaching your ears. From it, you sensed the direction the child was hiding. That's what I call Identification. By comparison, if several children were hiding, Impression emerges as you are trying to guess which suspicious shadow corresponds to whom.
+
+An ancient humanid saw a patch of yellow-orange in the forest and, recognizing it as a tiger, they were off running for help. That's Identification. New Year's Eve, something flashed in the windows of a building - that's fireworks. Again, Identification.
+
+To wrap my head around the Know to Sense function, I used "form" as a bridge, but it was too limiting to the inputs and outcomes. The other noteworthy mnemonic is "Effectiveness" - it also focuses on the outcome of recognizing the form or effect, not the essence of the function.
