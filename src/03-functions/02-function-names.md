@@ -29,3 +29,31 @@ But for us, let's focus on the sound reaching your ears. From it, you sensed the
 An ancient humanid saw a patch of yellow-orange in the forest and, recognizing it as a tiger, they were off running for help. That's Identification. New Year's Eve, something flashed in the windows of a building - that's fireworks. Again, Identification.
 
 To wrap my head around the Know to Sense function, I used "form" as a bridge, but it was too limiting to the inputs and outcomes. The other noteworthy mnemonic is "Effectiveness" - it also focuses on the outcome of recognizing the form or effect, not the essence of the function.
+
+## Feel → Predict: Opportunity
+
+It's almost lunch, and you are beyond hungry: that salad place you saw on your way here is very tempting. That's certainly what you want!
+
+You're parched, walking through the city. There's a vending machine, finally. That convenience store sign far ahead also glows like a beacon. You were on the same street yesterday. This vending machine was there all along, but your internal state led you to project usefulness onto everything around you.
+
+An organism that could act only on external data would be purely reactive. But an organism that can project internal states outward as predictions about external advantage becomes proactive. It reaches for things before the environment tells it to. So, selective pressure favors organisms that sense their own metabolic deficit and extend themselves toward whatever is available, even if at random.
+
+Just like that, speaking is essentially pointing literal sound waves outwards. Imagine you are taking your partner on a dinner date, feeling excited and anticipating, when you whisper, "You look amazing tonight."  It works for loneliness, too. You feel lonely, you call your friend, and the words you say carry the feeling outward, "I'm so glad you picked up."
+
+When our internal feelings project meaning into external things to make them useful, or to make use of them, that's Opportunity.
+
+I used "advantage" and "usefulness" as bridge ideas to understand what the Feel to Predict function produces, before settling on Opportunity.
+
+## Feel → Sense: Calibration
+
+If you are peckish, focusing on that lecture becomes harder with every minute. It might not be just hunger; you could be coming down with something. Moments later, the fever makes the room suddenly feel too cold, even though it was fine just a moment ago.
+
+The other day, feeling great after a long chat with an old friend, the air was so sweet and delicious at dusk. You open a new book, and it is already midnight - it feels like 30 minutes. It has probably been a full hour, or even more, since you plunged into the story.
+
+You are at a concert, energized in anticipation. The band starts playing your favorite song, and it sounds better than ever. A sudden call from your partner, worrying words on the phone. You are anxious to get out to a quiet place. The same song sounds like nothing, worse, a nuisance.
+
+You are at a clinic, waiting. Time moves slowly as if minutes take hours. The nurse comes out with reassuring words. You start to relax, and suddenly, an hour has passed. The improved feelings recalibrated the sense of time.
+
+When our feelings affect our senses, that's Calibration. I chose this word because it works both ways: with peripheral senses, such as warmth, and with experiential senses, such as time passing.
+
+To wrap my head around the Feel to Sense function, I used "time" and "wellbeing" as bridges, but they described the operation's common content, whereas Calibration describes what the operation does.
