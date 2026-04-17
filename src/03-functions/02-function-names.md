@@ -57,3 +57,33 @@ You are at a clinic, waiting. Time moves slowly as if minutes take hours. The nu
 When our feelings affect our senses, that's Calibration. I chose this word because it works both ways: with peripheral senses, such as warmth, and with experiential senses, such as time passing.
 
 To wrap my head around the Feel to Sense function, I used "time" and "wellbeing" as bridges, but they described the operation's common content, whereas Calibration describes what the operation does.
+
+## Sense → Feel: Impact
+
+Your purely external sensation can trigger internal feelings, such as when a sudden touch by a stranger at a crowded party makes your heart beat faster, even before you learn they are your old friend.
+
+That pressure on your back, membrane contact, produced the internal state shift. You did not even have to think, "I should be startled" - your senses decided what you feel. The reverse: a parent picks up a crying child and holds them against their chest. The warmth and pressure of the contact instantly shift the child's internal state.
+
+Half asleep, you are navigating a hotel room you just checked into a few hours before, just as your pinky toe hits the uneven leg of a coffee table. The table's leg remains entirely outside of you, fortunately, yet the jolt of pain instantly floods your system with adrenaline and nudges you wide awake.
+
+You are at the very same hotel after a very long day, still tense from the day's events. Your partner reaches out and rests their hand on your shoulder. Your heart starts to slow down, and a wave of calm finally washes over.
+
+Even a simple single-celled organism swimming into an obstacle may reverse its flagellar motor and swim off in a new direction.
+
+When our senses affect our feelings, that's Impact. I chose this word for its visceral, even physical nature, while also working for more abstract concepts: when sales deteriorate, the business struggles as margins compress.
+
+I used algorithms, temporal reactions, and economic margins as bridge ideas to arrive at the mnemonic 'Impact' that explains them all.
+
+## Sense → Know: Insight
+
+Run your hand along the main wall in a dark hotel room. You felt the ridges of the wallpaper until you sensed something else, a light switch. Just as senses help you understand the structure, material, and overall build of a coffee table as you move it away in the dark, out of harm's way.
+
+A doctor presses on your abdomen. She's not cutting you open, not at all, just from the pressure at the surface, feeling the resistance and tenderness, looking for rigidity. From this touch, she builds the knowledge of the situation, what's happening inside you. Now she has an idea, an insight, that she's going to let another doctor confirm with an ultrasound.
+
+You are in front of a door in the freezing rain, rummaging through the deep pockets of your backpack for your keys. You can't even look down to avoid getting rain down your collar. Your fingers brush against a cold piece of metal, but as you pull it out, you understand you pulled a miniature wrench instead. Pushing it away, you reach down again to find another familiar metal shape with jagged ridges. Chances are, this time it's the actual key, not something else.
+
+You reach out into the wet sand, your fingers touch something hard. You know you are looking for a shell, but you don't know if it's another rock. You continue to feel it around, sense the rhythmic ridges, and the probabilities collapse into a definite shell.
+
+I used "shape" and "structure" as bridge ideas, but since shapes or structures are the final result, not the process itself, I settled on "Insight" instead, since it captures the active inductive process.
+
+In Identification, you already knew what a child behind a curtain might look like, so you could identify the shape with certainty. By contrast, in Insight, external sensations build the knowledge you did not have. Just as a blind person with a cane can build a sufficient model of the world around, inductively, one touch at a time, with each contact refining the model further.
