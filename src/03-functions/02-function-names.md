@@ -60,13 +60,13 @@ To wrap my head around the Feel to Sense function, I used "time" and "wellbeing"
 
 ## Sense → Feel: Impact
 
-Your purely external sensation can trigger internal feelings, such as when a sudden touch by a stranger at a crowded party makes your heart beat faster, even before you learn they are your old friend.
-
-That pressure on your back, membrane contact, produced the internal state shift. You did not even have to think, "I should be startled" - your senses decided what you feel. The reverse: a parent picks up a crying child and holds them against their chest. The warmth and pressure of the contact instantly shift the child's internal state.
-
 Half asleep, you are navigating a hotel room you just checked into a few hours before, just as your pinky toe hits the uneven leg of a coffee table. The table's leg remains entirely outside of you, fortunately, yet the jolt of pain instantly floods your system with adrenaline and nudges you wide awake.
 
 You are at the very same hotel after a very long day, still tense from the day's events. Your partner reaches out and rests their hand on your shoulder. Your heart starts to slow down, and a wave of calm finally washes over.
+
+Your purely external sensation can trigger internal feelings, such as when a sudden touch by a stranger at a crowded party makes your heart beat faster, even before you learn they are your old friend.
+
+That pressure on your back, membrane contact, produced the internal state shift. You did not even have to think, "I should be startled" - your senses decided what you feel. The reverse: a parent picks up a crying child and holds them against their chest. The warmth and pressure of the contact instantly shift the child's internal state.
 
 Even a simple single-celled organism swimming into an obstacle may reverse its flagellar motor and swim off in a new direction.
 
@@ -94,4 +94,18 @@ A child is trying to catch a butterfly with a net on a stick. The insect flies e
 
 In all cases, nothing has happened, but you felt like it had: a prediction alone, an educated guess if you'd like, create a real physical change in you with your heart racing, face smiling, palm sweating, or neck relaxing.
 
-Projected outcomes creating internal states is a single case in which I did not need any bridge ideas and settled on Emotion as a mnemonic to capture this deductive temporal process after some back-and-forth.
+Projected outcomes creating internal states is a rare case in which I did not need any bridge ideas and settled on Emotion as a mnemonic to capture this deductive temporal process after considering and rejecting specific emotions.
+
+### Predict → Know: Conviction
+
+A dog is welcoming you with a wagging tail and attentive eyes. A good boy - you think to yourself. A quintessential good boy indeed, you are convinced - petting him behind the ears, muttering something nice. You've seen him year after year, tiny gray specks appearing on the nose.
+
+The other morning, you are walking the same path you've taken a dozen times already. You don't even look down to step around a pothole. Later that day, you noticed the air suddenly felt dense. The skies are getting darker every minute. You've seen this before, umbrella time.
+
+You weren't good with plants, but someone gifted you a pot of Haworthia; you left it on a bright windowsill for months, barely watering it, if ever. Unbeknownst to you, it survived worse. Encouraged by this success, you bought a planted Echeveria that looked not much different. You shut them out of mind behind the curtain, only to return to a sad, desiccated husk of Echeveria one month later.
+
+Unlike Emotion, which comes like a sudden wave, Conviction builds up as spatial, generalized knowledge from multiple past instances. Conviction only requires non-contradiction; so it works the other way around, too.
+
+As bridge ideas, I used "belief" and "friendship," but beliefs are passive (you can believe things for no reason), and personal relationships are too specific to human experience; so I settled on "Conviction" instead, since it captures the inductive spatial process best.
+
+You noticed I mentioned these spatial-temporal inductive-deductive attributes for some functions. Let's get to the bottom of them in the next section.
