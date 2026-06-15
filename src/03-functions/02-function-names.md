@@ -88,7 +88,7 @@ I used "shape" and "structure" as bridge ideas, but since shapes or structures a
 
 In Identification, you already knew what a child behind a curtain might look like, so you could identify the shape with certainty. By contrast, in Insight, external sensations build the knowledge you did not have. Just as a blind person with a cane can build a sufficient model of the world around, inductively, one touch at a time, with each contact refining the model further.
 
-### Predict → Feel: Emotion
+## Predict → Feel: Emotion
 
 A child is trying to catch a butterfly with a net on a stick. The insect flies erratically, and the child nears the stairs at the end of the lawn. An inescapable prediction jolts you awake, and you make a run for it before it is too late. The other day, you imagined finishing that difficult chapter in the book you are writing, and you almost feel the joy of that moment, imagining speeding ahead to the next big thing you want to explain. Or a good friend messages you and invites you for a coffee in a couple of weeks. It is still far ahead, but you are already savoring it.
 
@@ -96,7 +96,7 @@ In all cases, nothing has happened, but you felt like it had: a prediction alone
 
 Projected outcomes creating internal states is a rare case in which I did not need any bridge ideas and settled on Emotion as a mnemonic to capture this deductive temporal process after considering and rejecting specific emotions.
 
-### Predict → Know: Conviction
+## Predict → Know: Conviction
 
 A dog is welcoming you with a wagging tail and attentive eyes. A good boy - you think to yourself. A quintessential good boy indeed, you are convinced - petting him behind the ears, muttering something nice. You've seen him year after year, tiny gray specks appearing on the nose.
 
