@@ -23,7 +23,9 @@ K &\to P & S &\to P & F &\to P & P &\to P
 \end{aligned}
 \\]
 
-Repeating that a cat is a cat adds nothing new. For a protocell, it is a wasted effort. Pairs such as \\(K \to K\\) and \\(F \to F\\) do not create a selective advantage and do not belong to our grammar, so we are left with 12 pairs.
+## Inert Pairs
+
+Repeating that a cat is a cat adds nothing new. For a protocell, it is a wasted effort and a certain thermodynamic death if left on repeat. Pairs such as K \to K and F \to F do not confer a selective advantage and therefore do not belong to our grammar. These pairs aren't inherently impossible (who didn't stare blankly out of the window after a very long day) but rather metabolically inert, futile. So, we are left with 12 pairs.
 
 \\[
 \begin{aligned}
@@ -39,13 +41,13 @@ Four of these are fragile. For example, a jump from Know (Internal, Objective) t
 
 Such a jump changes the internal state, which can change it again, and so on. Whether it converges depends on the specific chemistry, the specific initial signal, and the specific internal conditions. Predicting whether this loop will halt is exactly as hard as the general halting problem: the cell would need to simulate itself to completion to know if it ever stops, which is the very thing Turing proved impossible. The simple life did not take chances and completely excluded them.
 
-A counterexample: an internalized molecule (K) creates a sensation in a membrane protein (S) beyond the activation threshold. It just validated the existing inconclusive opinion about the environment: the boundary serves as a reality check, grounding the action in certainty. The cell responds and persists, without any risk of&nbsp;non-termination.
+A counterexample: an internalized nutrient (K) creates a sensation in a membrane protein (S) above the activation threshold. It just validated the pre-existing inconclusive opinion about the environment, so the boundary actions served as a reality check, grounding the next action in certainty. The cell responds and persists, without any risk of&nbsp;non-termination.
 
 Here's another fragile example: a protocell detects (S) a chemical at its surface, sensing something. Instead of internalizing it (K) or triggering an internal response (F), it directly secretes (P) a molecule outward based on what it sensed. Now the secreted molecule is in the same external space that the cell is sensing, and the cell senses its own secretion. Predicts again, senses that prediction. Rinse and repeat, burning scarce fuel and reducing the chances of survival. It might halt, it might not, but the cost is not recoverable.
 
 ## The Rule of the Boundary
 
-Changes in the meaning of a signal (from objective to subjective, or vice versa) are only allowed after crossing the boundary because, without it, the flip is a relabeling, the same as if the system declared that the signal is more than it is, based on nothing but the system's own prior state, creating an unstable function.
+Changes in the meaning of a signal (from objective to subjective, or vice versa) are only allowed after crossing the boundary because, without it, the flip is a relabeling, the same as if the system declared that the signal is more than it is, based on nothing but the system's own prior state. In other words, a pair that changes only the source attribute (objective or subjective) while leaving the destination (internal or external) unchanged contradicts the structural facts and is therefore impossible. Not forbidden, strictly impossible.
 
 Following this rule, we have to exclude these four:
 
@@ -53,6 +55,8 @@ Following this rule, we have to exclude these four:
 - Sense (Objective, External) \\(\to\\) Predict (Subjective, External)
 - Feel (Subjective, Internal) \\(\to\\) Know (Objective, Internal)
 - Predict (Subjective, External) \\(\to\\) Sense (Objective, External)
+
+For example, a transition from Predict to Sense changes the signal from a subjective (internally sourced) to an objective, while remaining outside (both are external), creating a transition that is simply impossible.
 
 ## Final Eight
 
