@@ -62,7 +62,7 @@ These impossible pairs aren't unfamiliar to our human experience either. We know
 
 - from panic attacks, to delirium (K \to F, thoughts causing feelings),
 - from wishful thinking, to delusion (F \to K, feelings leading to facts),
-- from imposter syndrome, to dissociation (P \to S, rejection of agency), and
+- from learned helplessness, to dissociation (P \to S, rejection of agency), and
 - from magical thinking, to psychosis (S \to P, invention of agency).
 
 There's nothing good in these.
