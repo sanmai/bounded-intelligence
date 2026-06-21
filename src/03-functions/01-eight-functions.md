@@ -58,6 +58,15 @@ Following this rule, we have to exclude these four:
 
 For example, a transition from Predict to Sense changes the signal from a subjective (internally sourced) to an objective, while remaining outside (both are external), creating a transition that is simply impossible.
 
+These impossible pairs aren't unfamiliar to our human experience either. We know them as a variety of named mild-to-severe malfunctions:
+
+- from panic attacks, to delirium (K \to F, thoughts causing feelings),
+- from wishful thinking, to delusion (F \to K, feelings leading to facts),
+- from imposter syndrome, to dissociation (P \to S, rejection of agency), and
+- from magical thinking, to psychosis (S \to P, invention of agency).
+
+There's nothing good in these.
+
 ## Final Eight
 
 We're left with a minimal, sufficient yet stable set of 8 functions. 
