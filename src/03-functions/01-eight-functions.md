@@ -39,7 +39,7 @@ K &\to P & S &\to P & F &\to P & P &\to F
 
 Four of these are fragile. For example, a jump from Know (Internal, Objective) to Feel (Internal, Subjective) stays internal, going from objective to subjective in a single step, changing the meaning of a signal (a molecule) without doing any work on it on the boundary.
 
-Such a jump changes the internal state, which can change it again, and so on. Whether it converges depends on the specific chemistry, the specific initial signal, and the specific internal conditions. Predicting whether this loop will halt is exactly as hard as the general halting problem: the cell would need to simulate itself to completion to know if it ever stops, which is the very thing Turing proved impossible. The simple life did not take chances and completely excluded them.
+Such a jump changes the internal state, which can change it again, and so on. Whether it converges depends on the specific chemistry, the specific initial signal, and the specific internal conditions. Predicting whether this loop will halt is exactly as hard as the general halting problem: the cell would need to simulate itself to completion to know if it ever stops, which is the very thing Turing proved impossible. The simple life did not take chances (running them outside a simulation has an irreversible cost) and completely excluded them.
 
 A counterexample: an internalized nutrient (K) creates a sensation in a membrane protein (S) above the activation threshold. It just validated the pre-existing inconclusive opinion about the environment, so the boundary actions served as a reality check, grounding the next action in certainty. The cell responds and persists, without any risk of&nbsp;non-termination.
 
@@ -47,7 +47,7 @@ Here's another fragile example: a protocell detects (S) a chemical at its surfac
 
 ## The Rule of the Boundary
 
-Changes in the meaning of a signal (from objective to subjective, or vice versa) are only allowed after crossing the boundary because, without it, the flip is a relabeling, the same as if the system declared that the signal is more than it is, based on nothing but the system's own prior state. In other words, a pair that changes only the source attribute (objective or subjective) while leaving the destination (internal or external) unchanged contradicts the structural facts and is therefore impossible. Not forbidden, strictly impossible.
+Changes in the meaning of a signal (from objective to subjective, or vice versa) are only allowed after crossing the boundary because, without it, the flip is a relabeling, the same as if the system declared that the signal is more than it is, based on nothing but the system's own prior state. In other words, a pair that changes only the source attribute (objective or subjective) while leaving the destination (internal or external) unchanged contradicts the structural facts and is therefore impossible. Not forbidden, plain impossible.
 
 Following this rule, we have to exclude these four:
 
