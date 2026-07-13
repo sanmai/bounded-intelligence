@@ -2,15 +2,16 @@
 
 To single out a function, one needs exactly three questions, with each question splitting the space in half. The disagreement (XOR) between the questions is also a question, so we end up with seven questions in total.
 
-|       | Impression | Identification | Calibration | Opportunity | Insight | Impact | Conviction | Emotion |
-|-------|------------|----------------|-------------|-------------|---------|--------|------------|---------|
-| A     | 1          | 1              | 1           | 1           | 0       | 0      | 0          | 0       |
-| B     | 1          | 1              | 0           | 0           | 1       | 1      | 0          | 0       |
-| A^B   | 0          | 0              | 1           | 1           | 1       | 1      | 0          | 0       |
-| C     | 1          | 0              | 1           | 0           | 1       | 0      | 1          | 0       |
-| A^C   | 0          | 1              | 0           | 1           | 1       | 0      | 1          | 0       |
-| B^C   | 0          | 1              | 1           | 0           | 0       | 1      | 1          | 0       |
-| A^B^C | 1          | 0              | 0           | 1           | 0       | 1      | 1          | 0       |
+|       | Impression | Identification | Calibration | Opportunity | Insight | Impact | Emotion | Conviction |
+|-------|------------|----------------|-------------|-------------|---------|--------|---------|------------|
+| A     | 1          | 1              | 1           | 1           | 0       | 0      | 0       | 0          |
+| B     | 1          | 1              | 0           | 0           | 1       | 1      | 0       | 0          |
+| A^B   | 0          | 0              | 1           | 1           | 1       | 1      | 0       | 0          |
+| C     | 1          | 0              | 1           | 0           | 1       | 0      | 1       | 0          |
+| A^C   | 0          | 1              | 0           | 1           | 1       | 0      | 1       | 0          |
+| B^C   | 0          | 1              | 1           | 0           | 0       | 1      | 1       | 0          |
+| A^B^C | 1          | 0              | 0           | 1           | 0       | 1      | 1       | 0          |
+
 
 These are essentially Hadamard matrices with the first row (all zeros) omitted. Programmatically, these matrices of any necessary size can be constructed recursively from the smallest Hadamard matrix using Sylvester's construction.
 
@@ -52,6 +53,16 @@ We can devise a test to determine whether a function is absolute or relative. St
 | **Emotion**        | **Impact**         |
 
 So Impact is a relative function, and Conviction is an absolute function: it makes intuitive sense, as you can't measure the impact of an explosion without comparing it to some measure, a meter, but you can see my conviction to keep spelling these ideas out – it is just there.
+
+|                              | Impression | Identification | Calibration | Opportunity | Insight   | Impact    | Emotion    | Conviction |
+|------------------------------|------------|----------------|-------------|-------------|-----------|-----------|------------|------------|
+| External/Internal (A/~A)     | External   | External       | External    | External    | Internal  | Internal  | Internal   | Internal   |
+| Objective/Subjective (B/~B)  | Objective  | Objective      | Subjective  | Subjective  | Objective | Objective | Subjective | Subjective |
+| Relative/Absolute (A^B/~A^B) | Absolute   | Absolute       | Relative    | Relative    | Relative  | Relative  | Absolute   | Absolute   |
+| C                            | 1          | 0              | 1           | 0           | 1         | 0         | 1          | 0          |
+| A^C                          | 0          | 1              | 0           | 1           | 1         | 0         | 1          | 0          |
+| B^C                          | 0          | 1              | 1           | 0           | 0         | 1         | 1          | 0          |
+| A^B^C                        | 1          | 0              | 0           | 1           | 0         | 1         | 1          | 0          |
 
 I call these three attributes inherited because they were born at the operation level, or earlier. Think of a surname inherited from parents. By comparison, the yet unknown attributes are emergent attributes: each emergent attribute is a question that a single component of a function cannot explain. Here's another way to put it: emergent attributes are properties of functions that are born from relations between operations, not from operations themselves.
 
