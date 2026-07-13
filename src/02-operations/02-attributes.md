@@ -47,10 +47,10 @@ For operations, we have
 
 | Operation   | A        | B | A^B |  
 |-------------|----------|---|-----|
-| **Know**    | Internal | 0 | 0   |
-| **Sense**   | External | 0 | 1   |
-| **Feel**    | Internal | 1 | 1   |
-| **Predict** | External | 1 | 0   |
+| **Know**    | Internal | 1 | 1   |
+| **Sense**   | External | 1 | 0   |
+| **Feel**    | Internal | 0 | 0   |
+| **Predict** | External | 0 | 1   |
 
 This constrained triple's redundancy is practically convenient: classify using any two, then test it with the third. If the third disagrees, it means you made an error somewhere. 
 

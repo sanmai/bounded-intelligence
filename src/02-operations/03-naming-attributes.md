@@ -2,7 +2,7 @@
 
 ## Attribute B
 
-| B = 0                          | B = 1                            |
+| B = 1                          | B = 0                            |
 |--------------------------------|----------------------------------|
 | **Know**: External → Internal  | **Predict**: Internal → External |
 | **Sense**: External → External | **Feel**: Internal → Internal    |
@@ -18,7 +18,7 @@ So Know and Sense are objective operations, while Predict and Feel are subjectiv
 
 ## Attribute A^B
 
-| A^B = 0                          | A^B = 1                        |
+| A^B = 1                          | A^B = 0                        |
 |----------------------------------|--------------------------------|
 | **Know**: External → Internal    | **Sense**: External → External |
 | **Predict**: Internal → External | **Feel**: Internal → Internal  |
