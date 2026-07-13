@@ -18,6 +18,7 @@
 
 - [From Operations to Functions](./03-functions/01-eight-functions.md)
 - [Naming Functions](./03-functions/02-function-names.md)
+- [Attributes of Functions](./03-functions/03-attributes-of-functions.md)
 
 # Cascades
 
