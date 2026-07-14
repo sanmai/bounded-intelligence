@@ -2,19 +2,19 @@
 
 Where are these operations relative to the boundary? If we look at the final points of each operation's movement, Know and Feel belong to internal ideas, while Sense and Predict belong to external ideas.
 
-| Operation   | Movement            | External or Internal? |  
-|-------------|---------------------|-----------------------|
-| **Know**    | External → Internal | Internal              |
-| **Sense**   | External → External | External              |
-| **Feel**    | Internal → Internal | Internal              |
-| **Predict** | Internal → External | External              |
+| Operation   | Movement            | External or Internal? (A) |
+|-------------|---------------------|---------------------------|
+| **Know**    | External → Internal | Internal (A = 0)          |
+| **Sense**   | External → External | External (A = 1)          |
+| **Feel**    | Internal → Internal | Internal (A = 0)          |
+| **Predict** | Internal → External | External (A = 1)          |
 
 Knowing if an idea is external or internal to the boundary does not allow us to classify it into four buckets. As each question cuts the possibility space in half, we need at least one more question or attribute to specify exactly one of four binary classes: say, if an idea belongs to knowing or feeling.
 
 Let's call attribute A the external/internal distinction.
 
-- Know and Feel share A=Internal, so they must differ on B
-- Sense and Predict share A=External, so they must differ on B
+- Know and Feel share A = 0 (Internal), so they must differ on B
+- Sense and Predict share A = 1 (External), so they must differ on B
  
 So, Know and Sense share the same value for the unknown attribute B, while Feel and Predict share the opposite value of the attribute B.
 
@@ -37,20 +37,20 @@ We are looking at more than we bargained for: a third binary attribute that is a
 
 Whichever attribute we chose as the canonical attribute (a standard representation, not a superior one) for the classification basis, the other emerges as the third. Neither B nor B' is "more primary" because they're both describing the exact structural requirement: the second bit.
 
-For simplicity's sake, let's take the grouping where Know and Sense share a value as our canonical attribute B, in addition to attribute A, so that the third attribute will be A^B.
+For simplicity's sake, let's take the grouping where Know and Sense share a value as our canonical attribute B (B = 1), in addition to attribute A, so that the third attribute will be A^B.
 
 For operations, we have
 
-- One inherited attribute (external/internal), A - inherited from the membrane
+- One inherited attribute (External/Internal), A - inherited from the membrane
 - Two emergent attributes (B, A^B) - they appeared first for operations
 - And two canonical attributes (A, B)
 
-| Operation   | A        | B | A^B |  
-|-------------|----------|---|-----|
-| **Know**    | Internal | 1 | 1   |
-| **Sense**   | External | 1 | 0   |
-| **Feel**    | Internal | 0 | 0   |
-| **Predict** | External | 0 | 1   |
+  | Operation   | A (External/Internal) | B | A^B |
+  |-------------|-----------------------|---|-----|
+  | **Know**    | Internal (A = 0)      | 1 | 1   |
+  | **Sense**   | External (A = 1)      | 1 | 0   |
+  | **Feel**    | Internal (A = 0)      | 0 | 0   |
+  | **Predict** | External (A = 1)      | 0 | 1   |
 
 This constrained triple's redundancy is practically convenient: classify using any two, then test it with the third. If the third disagrees, it means you made an error somewhere. 
 

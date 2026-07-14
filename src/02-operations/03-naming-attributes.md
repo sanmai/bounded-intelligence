@@ -14,7 +14,7 @@ The starting point, the origin of the signal.
 - For Know and Sense, it is the external world, objective reality.
 - For Predict and Feel, it is the cell itself, the subject.
 
-So Know and Sense are objective operations, while Predict and Feel are subjective operations, and the categorical distinctions are for objective ideas and subjective ideas.
+So Know and Sense are objective operations (B = 1), while Predict and Feel are subjective operations (B = 0), and the categorical distinctions are for objective ideas and subjective ideas.
 
 ## Attribute A^B
 
@@ -28,7 +28,7 @@ What is common between Know and Predict, and separates them from Sense and Feel?
 
 Sense stays outside the boundary, Feel stays inside the boundary. These operations preserve the immediate, particular nature of the signal, capturing raw, unmediated experience. They just are, and can be grasped directly without comparison.
 
-So, Feel and Sense are absolute operations, complete in themselves.
+So, Feel and Sense are absolute operations, complete in themselves (A^B = 0).
 
 Some examples of absolute ideas:
 
@@ -41,7 +41,7 @@ Some examples of absolute ideas:
 
 Know and Predict cross the boundary in either direction. When signals cross the boundary, they change the information's context, integrating with the subject or influencing the environment. These signals are now defined relative to either system's internal state or environments.
 
-Know and Predict are relative operations that exist through a relationship to context.
+Know and Predict are relative operations that exist through a relationship to context (A^B = 1).
 
 Some examples of relative ideas:
 
