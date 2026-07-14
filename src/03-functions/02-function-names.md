@@ -94,7 +94,7 @@ A child is trying to catch a butterfly with a net on a stick. The insect flies e
 
 In all cases, nothing has happened, but you felt like it had: a prediction alone, an educated guess if you'd like, create a real physical change in you with your heart racing, face smiling, palm sweating, or neck relaxing.
 
-Projected outcomes creating internal states is a rare case in which I did not need any bridge ideas and settled on Emotion as a mnemonic to capture this deductive temporal process after considering and rejecting specific emotions.
+Projected outcomes creating internal states is a rare case in which I did not need any bridge ideas and settled on Emotion as a mnemonic to capture this inductive spatial process after considering and rejecting specific emotions.
 
 ## Predict → Know: Conviction
 
@@ -104,8 +104,8 @@ The other morning, you are walking the same path you've taken a dozen times alre
 
 You weren't good with plants, but someone gifted you a pot of Haworthia; you left it on a bright windowsill for months, barely watering it, if ever. Unbeknownst to you, it survived worse. Encouraged by this success, you bought a planted Echeveria that looked not much different. You shut them out of mind behind the curtain, only to return to a sad, desiccated husk of Echeveria one month later.
 
-Unlike Emotion, which comes like a sudden wave, Conviction builds up as spatial, generalized knowledge from multiple past instances. Conviction only requires non-contradiction; so it works the other way around, too.
+Unlike Emotion, which comes like a sudden wave, Conviction builds up as temporal, specific knowledge from multiple past instances. Conviction only requires non-contradiction; so it works the other way around, too.
 
-As bridge ideas, I used "belief" and "friendship," but beliefs are passive (you can believe things for no reason), and personal relationships are too specific to human experience; so I settled on "Conviction" instead, since it captures the inductive spatial process best.
+As bridge ideas, I used "belief" and "friendship," but beliefs are passive (you can believe things for no reason), and personal relationships are too specific to human experience; so I settled on "Conviction" instead, since it captures the deductive temporal process best.
 
 You noticed I mentioned these spatial-temporal inductive-deductive attributes for some functions. Let's get to the bottom of them in the next section.
