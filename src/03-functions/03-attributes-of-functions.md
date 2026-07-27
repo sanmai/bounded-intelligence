@@ -17,7 +17,7 @@ These are essentially Hadamard matrices with the first row (all zeros) omitted. 
 
 As with attributes, none of the questions is strictly primary: if we choose a different first question, the earlier first question will naturally emerge from the XOR with the other questions.
 
-Unlike with attributes, we can't just pick three and use them as a classification basis: XOR terms cancel each other, so if you add A^B to the basis of A and B you end up with a set of questions that cannot pin down a single function. Another invalid set is A^B, A^C, B^C: any two imply the third. To cut it short, there are 28 valid bases and 7 invalid bases.
+Unlike with attributes, we can't just pick three and use them as a classification basis: XOR terms cancel each other, so if you add A^B to the basis of A and B, you end up with a set of questions that cannot pin down a single function. Another invalid set is A^B, A^C, B^C: any two imply the third. To cut it short, there are 28 valid bases and 7 invalid bases.
 
 ## Inherited attributes
 
@@ -34,7 +34,7 @@ How do we tell which function is external or internal? If we look at where a fun
 
 We also expanded our category powers to include subjective and objective, as well as absolute and relative, distinctions.
 
-The starting point, the origin of the signal, defines whether an idea is objective or subjective. For functions, we can infer that from looking at the initial, starting operation, where the signal starts: the source defines whether a function is objective or subjective. So Opportunity is subjective because Feel is a subjective operation, and Impression is objective because Know is an objective operation.
+The starting point, the origin of the signal, defines whether an idea is objective or subjective. For functions, we can infer that from the initial operation, where the signal starts: the source defines whether a function is objective or subjective. So Opportunity is subjective because Feel is a subjective operation, and Impression is objective because Know is an objective operation.
 
 | Subjective (B = 0)              | Objective (B = 1)                |
 |---------------------------------|----------------------------------|
@@ -64,6 +64,6 @@ So Impact is a relative function, and Conviction is an absolute function: it mak
 | B^C                          | 0          | 1              | 1           | 0           | 0         | 1         | 1          | 0          |
 | A^B^C                        | 1          | 0              | 0           | 1           | 0         | 1         | 1          | 0          |
 
-I call these three attributes inherited because they were born at the operation level, or earlier. Think of a surname inherited from parents. By comparison, the yet unknown attributes are emergent attributes: each emergent attribute is a question that a single component of a function cannot explain. Here's another way to put it: emergent attributes are properties of functions that are born from relations between operations, not from operations themselves.
+I call these three attributes inherited because they were born at the operation level, or earlier. Think of a surname inherited from parents. By comparison, the yet unknown attributes are emergent attributes: each emergent attribute is a question that a single component of a function cannot explain. Here's another way to put it: emergent attributes are properties of functions that are born from relations between operations, not from operations themselves. These attributes need both operations to exist.
 
 Let's uncover what these emergent attributes mean for functions and how we can build intuition for them.
