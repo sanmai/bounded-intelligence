@@ -16,16 +16,28 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  # mdBook with `$...$` math syntax: rust-lang/mdBook#2968
+  MDBOOK_REPO: https://github.com/jeanas/mdBook
+  MDBOOK_REV: f6bbe0dd48816812135dc5d5ab6bb7e90731ce00
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
 
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v2
+      # Keyed on the revision: a bump rebuilds, everything else reuses.
+      - name: Restore mdBook
+        id: cache-mdbook
+        uses: actions/cache@v4
         with:
-          mdbook-version: 'latest'
+          path: ~/.cargo/bin/mdbook
+          key: mdbook-${{ runner.os }}-${{ env.MDBOOK_REV }}
+
+      - name: Setup mdBook
+        if: steps.cache-mdbook.outputs.cache-hit != 'true'
+        run: cargo install --git "$MDBOOK_REPO" --rev "$MDBOOK_REV" --locked mdbook
 
       - name: Build
         run: mdbook build

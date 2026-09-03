@@ -10,7 +10,8 @@ build-dir = "book"
 [output.html]
 git-repository-url = "https://github.com/sanmai/bounded-intelligence"
 additional-css = ["theme/footer.css", "theme/typography.css"]
-mathjax-support = true
+mathjax-support = false
+math = true
 
 [output.pdf]
 optional = true
