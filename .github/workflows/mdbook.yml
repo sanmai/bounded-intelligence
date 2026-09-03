@@ -41,7 +41,7 @@ jobs:
       - name: Build
         run: mdbook build
 
-      - name: Verify math rendered
+      - name: Verify math renders
         run: |
           grep -rq 'class="math math-' book/html/ \
             || { echo "::error::no math spans"; exit 1; }
