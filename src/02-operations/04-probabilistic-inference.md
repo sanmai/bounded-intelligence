@@ -10,14 +10,12 @@ Let's replace the binary yes-or-no with degree measurements. Instead of "Is this
 
 Then, the probability for a given category is simply the product of the probabilities.
 
-\\[
-\begin{aligned}
-P(Know) &= P(Internal) \times P(Objective) \times P(Relative) \\\\
-P(Sense) &= P(External) \times P(Objective) \times P(Absolute) \\\\
-P(Feel) &= P(Internal) \times P(Subjective) \times P(Absolute) \\\\
+$$\begin{aligned}
+P(Know) &= P(Internal) \times P(Objective) \times P(Relative) \\
+P(Sense) &= P(External) \times P(Objective) \times P(Absolute) \\
+P(Feel) &= P(Internal) \times P(Subjective) \times P(Absolute) \\
 P(Predict) &= P(External) \times P(Subjective) \times P(Relative)
-\end{aligned}
-\\]
+\end{aligned}$$
 
 Think of the friendship that you had with your best friend. You express it through visible actions (external), but base it on personal feelings (subjective). You understand friendship in comparison: it is closer than acquaintanceship, less intense than romantic love (relative).
 
