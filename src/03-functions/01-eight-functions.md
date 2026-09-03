@@ -14,26 +14,22 @@ For this, we want the smallest possible set of pairs of events and reactions (or
 
 With just four categories in our vocabulary, we have only 16 possible pairs.
 
-\\[
-\begin{aligned}
-K &\to K & S &\to K & F &\to K & P &\to K \\\\
-K &\to S & S &\to S & F &\to S & P &\to S \\\\
-K &\to F & S &\to F & F &\to F & P &\to F \\\\
+$$\begin{aligned}
+K &\to K & S &\to K & F &\to K & P &\to K \\
+K &\to S & S &\to S & F &\to S & P &\to S \\
+K &\to F & S &\to F & F &\to F & P &\to F \\
 K &\to P & S &\to P & F &\to P & P &\to P
-\end{aligned}
-\\]
+\end{aligned}$$
 
 ## Inert Pairs
 
 Repeating that a cat is a cat adds nothing new. For a protocell, it is a wasted effort and a certain thermodynamic death if left on repeat. Pairs such as K \to K and F \to F do not confer a selective advantage and therefore do not belong to our grammar. These pairs aren't inherently impossible (who didn't stare blankly out of the window after a very long day) but rather metabolically inert, futile. So, we are left with 12 pairs.
 
-\\[
-\begin{aligned}
-K &\to S & S &\to K & F &\to K & P &\to K \\\\
-K &\to F & S &\to F & F &\to S & P &\to S \\\\
+$$\begin{aligned}
+K &\to S & S &\to K & F &\to K & P &\to K \\
+K &\to F & S &\to F & F &\to S & P &\to S \\
 K &\to P & S &\to P & F &\to P & P &\to F
-\end{aligned}
-\\]
+\end{aligned}$$
 
 ## The Halting Problem
 
@@ -51,10 +47,10 @@ Changes in the meaning of a signal (from objective to subjective, or vice versa)
 
 Following this rule, we have to exclude these four:
 
-- Know (Internal, Objective) \\(\to\\) Feel (Internal, Subjective)
-- Sense (Objective, External) \\(\to\\) Predict (Subjective, External)
-- Feel (Subjective, Internal) \\(\to\\) Know (Objective, Internal)
-- Predict (Subjective, External) \\(\to\\) Sense (Objective, External)
+- Know (Internal, Objective) $\to$ Feel (Internal, Subjective)
+- Sense (Objective, External) $\to$ Predict (Subjective, External)
+- Feel (Subjective, Internal) $\to$ Know (Objective, Internal)
+- Predict (Subjective, External) $\to$ Sense (Objective, External)
 
 For example, a transition from Predict to Sense changes the signal from a subjective (internally sourced) to an objective, while remaining outside (both are external), creating a transition that is simply impossible.
 
@@ -71,16 +67,14 @@ There's nothing good in these.
 
 We're left with a minimal, sufficient yet stable set of 8 functions. 
 
-\\[
-\begin{aligned}
-K &\to S & \qquad S &\to K \\\\
-K &\to P & \qquad P &\to K \\\\
-F &\to P & \qquad P &\to F \\\\
+$$\begin{aligned}
+K &\to S & \qquad S &\to K \\
+K &\to P & \qquad P &\to K \\
+F &\to P & \qquad P &\to F \\
 S &\to F & \qquad F &\to S
-\end{aligned}
-\\]
+\end{aligned}$$
 
-I arranged the functions so you can see the pattern: it is a cycle graph on four vertices (\\(K\text{-}S\\), \\(S\text{-}F\\), \\(F\text{-}P\\), \\(P\text{-}K\\)), where only moves to adjacent positions are valid.
+I arranged the functions so you can see the pattern: it is a cycle graph on four vertices ($K\text{-}S$, $S\text{-}F$, $F\text{-}P$, $P\text{-}K$), where only moves to adjacent positions are valid.
 
 ![Cycle graph of four operations](functions.svg)
 
