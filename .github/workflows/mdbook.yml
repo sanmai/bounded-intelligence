@@ -38,11 +38,6 @@ jobs:
         if: steps.cache-mdbook.outputs.cache-hit != 'true'
         run: cargo install --git "$MDBOOK_REPO" --rev "$MDBOOK_REV" --locked mdbook
 
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v2
-        with:
-          mdbook-version: 'latest'
-
       - name: Which mdBook
         run: |
           type -a mdbook
