@@ -27,7 +27,11 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      # Keyed on the revision: a bump rebuilds, everything else reuses.
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v2
+        with:
+          mdbook-version: 'latest'
+
       - name: Restore mdBook
         id: cache-mdbook
         uses: actions/cache@v4
@@ -39,8 +43,20 @@ jobs:
         if: steps.cache-mdbook.outputs.cache-hit != 'true'
         run: cargo install --git "$MDBOOK_REPO" --rev "$MDBOOK_REV" --locked mdbook
 
+      - name: Which mdBook
+        run: |
+          type -a mdbook
+          mdbook --version
+
       - name: Build
         run: mdbook build
+
+      - name: Verify math rendered
+        run: |
+          grep -rq 'class="math math-' book/html/ \
+            || { echo "::error::no math spans - released mdBook won the PATH?"; exit 1; }
+          grep -rqi 'mathjax' book/html/ \
+            || { echo "::error::MathJax not loaded - stale theme/index.hbs?"; exit 1; }
 
       - name: Copy CNAME
         run: cp CNAME book/html/
