@@ -27,11 +27,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v2
-        with:
-          mdbook-version: 'latest'
-
       - name: Restore mdBook
         id: cache-mdbook
         uses: actions/cache@v4
@@ -42,6 +37,11 @@ jobs:
       - name: Setup mdBook
         if: steps.cache-mdbook.outputs.cache-hit != 'true'
         run: cargo install --git "$MDBOOK_REPO" --rev "$MDBOOK_REV" --locked mdbook
+
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v2
+        with:
+          mdbook-version: 'latest'
 
       - name: Which mdBook
         run: |
