@@ -83,7 +83,7 @@ And Temporal/Spatial can be expressed with:
 
 The missing attribute (Internal/External) is trivially read directly from the destination.
 
-| Attribute                  | Example Pair                  |
+| Attribute                  | Example Origin                |
 |----------------------------|-------------------------------|
 | Immediate/Indirect (B^C)   | External(X) XOR Objective(Y)  |
 | Strategic/Tactical (A^B^C) | External(X) XOR Relative(Y)   |
