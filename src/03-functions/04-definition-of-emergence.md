@@ -69,17 +69,17 @@ A few attributes are special because you can't derive them by looking at only on
 
 Deduction/Induction can be expressed as:
 
-- Subjective(X) XOR Relative(Y)
+- Subjective(X) XOR Relative(Y) (negated Objective(X) XOR Relative(Y) from the original table)
 - Objective(X) XOR Absolute(Y)
 - Absolute(X) XOR Subjective(Y)
-- Relative(X) XOR Objective(Y)
+- Relative(X) XOR Objective(Y) (same as in the original table)
 
 And Temporal/Spatial can be expressed with:
 
-- Subjective(X) XOR Objective(Y)
+- Subjective(X) XOR Objective(Y) (negated Objective(X) XOR Objective(Y) from the original table)
 - Objective(X) XOR Subjective(Y)
 - Absolute(X) XOR Absolute(Y)
-- Relative(X) XOR Relative(Y)
+- Relative(X) XOR Relative(Y)  (same as in the original table)
 
 The missing attribute (Internal/External) is trivially read directly from the destination.
 
