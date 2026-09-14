@@ -1,6 +1,6 @@
-# Emergence
+# Defining Emergence
 
-Imagine a single point on a graph. Imagine another point, somewhere off to the side and up. Just as you imagined a second point, a brand new emergent property appeared: a distance between the points. And quite a few more properties, such as whether a point is higher or lower than another by one of the axes.
+Imagine a single point on a graph. Imagine another point, somewhere off to the side and up. Just as you imagined a second point, a brand new emergent property appeared: a distance between the points. And quite a few more properties, such as whether a point is higher or lower than another on one of the axes.
 
 These emergent properties aren't specific to each point: a point can't have a distance or an incline, but a line between points can, just as a point cannot be closer to one axis than another without that other point. These properties emerge from differences in points' core attributes, specifically their coordinates.
 
@@ -12,9 +12,21 @@ Think of two opposing sets of Reversi pieces. If both opposing pieces are black 
 
 As each operation has three attributes, there are nine distinct pairs of source and destination attributes.
 
-These pairs aren't attributes themselves, only pairings: true attributes must show differences between functions, and emergent attributes must create new information. So if a source has a positive attribute A and the destination has the same positive attribute A, then XOR will report false: there's no difference. 
+These pairs aren't attributes themselves, only pairings: true attributes must show differences between functions, and emergent attributes must create new information. So if a source has a positive attribute A and the destination has the same positive attribute A, XOR reports false: there's no difference.
 
 Likewise, if a source has a positive attribute A, but the destination has a negative A, then XOR reports true because the values differ.
+
+| X -> Y                        | Impression | Identification | Calibration | Opportunity | Insight | Impact | Emotion | Conviction |
+|-------------------------------|------------|----------------|-------------|-------------|---------|--------|---------|------------|
+| Internal(X) XOR Internal(Y)   | 1          | 1              | 1           | 1           | 1       | 1      | 1       | 1          |
+| Internal(X) XOR Objective(Y)  | 1          | 0              | 0           | 1           | 1       | 0      | 0       | 1          |
+| Internal(X) XOR Relative(Y)   | 0          | 1              | 1           | 0           | 1       | 0      | 0       | 1          |
+| Objective(X) XOR Internal(Y)  | 1          | 1              | 0           | 0           | 0       | 0      | 1       | 1          |
+| Objective(X) XOR Objective(Y) | 1          | 0              | 1           | 0           | 0       | 1      | 0       | 1          |
+| Objective(X) XOR Relative(Y)  | 0          | 1              | 0           | 1           | 0       | 1      | 0       | 1          |
+| Relative(X) XOR Internal(Y)   | 1          | 1              | 0           | 0           | 1       | 1      | 0       | 0          |
+| Relative(X) XOR Objective(Y)  | 1          | 0              | 1           | 0           | 1       | 0      | 1       | 0          |
+| Relative(X) XOR Relative(Y)   | 0          | 1              | 0           | 1           | 1       | 0      | 1       | 0          |
 
 From this table, we can see that if both the source (X) and the destination (Y) are either external and internal or internal and external, there is always a difference between these attributes in all functions, and there's no difference between functions. So Internal(X) XOR Internal(Y) is the only pairing in this table that does not emerge as an attribute, as a way to split all functions in half.
 
