@@ -65,7 +65,7 @@ Here, Internal(X) negated is External(X), and Subjective(Y) negated is Objective
 
 Immediate/Indirect can also be derived as Absolute(Y).
 
-A few attributes are special because they can't be derived by looking at only one end or the other. Further, they have twice as many expressions: Deduction/Induction and Temporal/Spatial are like this.
+A few attributes are special because you can't derive them by looking at only one end or the other. Further, they have twice as many expressions: Deduction/Induction and Temporal/Spatial are like this.
 
 Deduction/Induction can be expressed as:
 
