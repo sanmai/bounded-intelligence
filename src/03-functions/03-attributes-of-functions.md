@@ -64,6 +64,6 @@ So Impact is a relative function, and Conviction is an absolute function: it mak
 | B^C                          | 0          | 1              | 1           | 0           | 0         | 1         | 1          | 0          |
 | A^B^C                        | 1          | 0              | 0           | 1           | 0         | 1         | 1          | 0          |
 
-I call these three attributes inherited because they were born at the operation level, or earlier. Think of a surname inherited from parents. By comparison, the yet-unknown attributes are emergent attributes: each emergent attribute is a question that a single component of a function cannot explain; operations just don't have them. Here's another way to put it: emergent attributes are properties of functions that are born from relations between operations, not from operations themselves. These attributes need both operations to exist.
+I call these three attributes inherited because they were born at the operation level, or earlier. Think of a surname inherited from parents. By comparison, the yet-unknown attributes are emergent attributes: operations just don't have them.
 
 Let's uncover what these emergent attributes mean for functions and how we can build intuition for them.
