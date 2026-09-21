@@ -41,20 +41,20 @@ We already eliminated one row as a non-attribute, and now we can use this observ
 
 If we notice that negation is the same as a pole flip (Objective is not-Subjective), we get a list that matches six of seven earlier proposed attributes.
 
-| X -> Y                         | Impression | Identification | Calibration | Opportunity | Insight | Impact | Emotion | Conviction |
-|--------------------------------|------------|----------------|-------------|-------------|---------|--------|---------|------------|
-| Immediate/Indirect (B^C)       | 0          | 1              | 1           | 0           | 0       | 1      | 1       | 0          |
-| External(X) XOR Objective(Y)   | 0          | 1              | 1           | 0           | 0       | 1      | 1       | 0          |
-| Strategic/Tactical (A^B^C)     | 1          | 0              | 0           | 1           | 0       | 1      | 1       | 0          |
-| External(X) XOR Relative(Y)    | 1          | 0              | 0           | 1           | 0       | 1      | 1       | 0          |
-| Temporal/Spatial (A^C)         | 0          | 1              | 0           | 1           | 1       | 0      | 1       | 0          |
-| Relative(X) XOR Relative(Y)    | 0          | 1              | 0           | 1           | 1       | 0      | 1       | 0          |
-| Absolute/Relative (A^B)        | 0          | 0              | 1           | 1           | 1       | 1      | 0       | 0          |
-| Subjective(X) XOR Internal(Y)  | 0          | 0              | 1           | 1           | 1       | 1      | 0       | 0          |
-| Deduction/Induction (C)        | 1          | 0              | 1           | 0           | 1       | 0      | 1       | 0          |
-| Relative(X) XOR Objective(Y)   | 1          | 0              | 1           | 0           | 1       | 0      | 1       | 0          |
-| Subjective/Objective (B)       | 1          | 1              | 0           | 0           | 1       | 1      | 0       | 0          |
-| Relative(X) XOR Internal(Y)    | 1          | 1              | 0           | 0           | 1       | 1      | 0       | 0          |
+| X -> Y                        | Impression | Identification | Calibration | Opportunity | Insight | Impact | Emotion | Conviction |
+|-------------------------------|------------|----------------|-------------|-------------|---------|--------|---------|------------|
+| Immediate/Indirect (B^C)      | 0          | 1              | 1           | 0           | 0       | 1      | 1       | 0          |
+| External(X) XOR Objective(Y)  | 0          | 1              | 1           | 0           | 0       | 1      | 1       | 0          |
+| A^B^C                         | 1          | 0              | 0           | 1           | 0       | 1      | 1       | 0          |
+| External(X) XOR Relative(Y)   | 1          | 0              | 0           | 1           | 0       | 1      | 1       | 0          |
+| A^C                           | 0          | 1              | 0           | 1           | 1       | 0      | 1       | 0          |
+| Relative(X) XOR Relative(Y)   | 0          | 1              | 0           | 1           | 1       | 0      | 1       | 0          |
+| Absolute/Relative (A^B)       | 0          | 0              | 1           | 1           | 1       | 1      | 0       | 0          |
+| Subjective(X) XOR Internal(Y) | 0          | 0              | 1           | 1           | 1       | 1      | 0       | 0          |
+| C                             | 1          | 0              | 1           | 0           | 1       | 0      | 1       | 0          |
+| Relative(X) XOR Objective(Y)  | 1          | 0              | 1           | 0           | 1       | 0      | 1       | 0          |
+| Subjective/Objective (B)      | 1          | 1              | 0           | 0           | 1       | 1      | 0       | 0          |
+| Relative(X) XOR Internal(Y)   | 1          | 1              | 0           | 0           | 1       | 1      | 0       | 0          |
 
 For each attribute, at least one other attribute pairing has the same binary fingerprint. For example, after a double negation, Immediate/Indirect can be expressed as:
 
@@ -65,16 +65,16 @@ Here, Internal(X) negated is External(X), and Subjective(Y) negated is Objective
 
 Immediate/Indirect can also be derived as Absolute(Y).
 
-A few attributes are special because you can't derive them by looking at only one end or the other. Further, they have twice as many expressions: Deduction/Induction and Temporal/Spatial are like this.
+A few attributes are special because you can't derive them by looking at only one end or the other. Further, they have twice as many expressions: C and A^C are like this.
 
-Deduction/Induction can be expressed as:
+C can be expressed as:
 
 - Subjective(X) XOR Relative(Y)
 - Objective(X) XOR Absolute(Y)
 - Absolute(X) XOR Subjective(Y)
 - Relative(X) XOR Objective(Y)
 
-And Temporal/Spatial can be expressed with:
+And A^C can be expressed with:
 
 - Subjective(X) XOR Objective(Y)
 - Objective(X) XOR Subjective(Y)
@@ -83,14 +83,14 @@ And Temporal/Spatial can be expressed with:
 
 The missing attribute (Internal/External) is trivially read directly from the destination.
 
-| Attribute                  | Example Origin                |
-|----------------------------|-------------------------------|
-| Immediate/Indirect (B^C)   | External(X) XOR Objective(Y)  |
-| Strategic/Tactical (A^B^C) | External(X) XOR Relative(Y)   |
-| Temporal/Spatial (A^C)     | Relative(X) XOR Relative(Y)   |
-| Absolute/Relative (A^B)    | Subjective(X) XOR Internal(Y) |
-| Deduction/Induction (C)    | Relative(X) XOR Objective(Y)  |
-| Subjective/Objective (B)   | Relative(X) XOR Internal(Y)   |
-| External/Internal (A)      | External(Y)                   |
+| Attribute                | Example Origin                |
+|--------------------------|-------------------------------|
+| Immediate/Indirect (B^C) | External(X) XOR Objective(Y)  |
+| A^B^C                    | External(X) XOR Relative(Y)   |
+| A^C                      | Relative(X) XOR Relative(Y)   |
+| Absolute/Relative (A^B)  | Subjective(X) XOR Internal(Y) |
+| C                        | Relative(X) XOR Objective(Y)  |
+| Subjective/Objective (B) | Relative(X) XOR Internal(Y)   |
+| External/Internal (A)    | External(Y)                   |
 
 Now, let's figure out what this all means.
