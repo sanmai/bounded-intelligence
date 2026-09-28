@@ -48,6 +48,9 @@ jobs:
           grep -rqi 'mathjax' book/html/ \
             || { echo "::error::MathJax not loaded"; exit 1; }
 
+      - name: Generate sitemap
+        run: ./build/sitemap.sh
+
       - name: Copy CNAME
         run: cp CNAME book/html/
 
