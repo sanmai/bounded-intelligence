@@ -1,8 +1,8 @@
 # Probabilistic Inference
 
-When considering complex concepts like friendship, we often struggle to place them definitively. Is friendship more internal or external? More objective or subjective?
+When we consider complex concepts like friendship, we can struggle to define them definitively. Is friendship more internal or external? More objective or subjective?
 
-Infinite precision is infinitely expensive. By converting this uncertainty into confidence levels, we'll get practical, usable answers from partial certainties on the cheap.
+Infinite precision is infinitely expensive. By converting this uncertainty into confidence levels, we can get practical, usable answers from partial certainties cheaply.
 
 ## Degrees, Not Boxes
 
@@ -27,19 +27,19 @@ P(Feel) has the highest score at 0.39 (39%), followed by P(Sense) at 0.09, P(Pre
 
 You didn't need to decide whether friendship is definitely internal. Feeling still won with 39%, with everything else following far behind. You did not need 100% certainty to make decisions that work.
 
-That 16% attributable to other operations is what we lost to aliasing, across many dimensions of friendship (a complex socio-biological phenomenon), to fit it into one of the four boxes.
+That 16% attributable to other operations is what we lost to aliasing across many dimensions of friendship (a complex socio-biological phenomenon) when we fit it into one of the four boxes.
 
 ## Selective Filter
 
-If we compute the totals, we find that almost half the probability (46%) arrived outside any operation, more than the highest answer. It isn't aliased-away information about friendship; it's information that meant nothing, void.
+If we compute the totals, we find that almost half the probability (46%) has no place in any operation. That's more than the highest-ranking answer. It isn't aliased-away information about friendship; it's information that meant nothing, void.
 
-Those combinations did not correspond to anything: no operation is all internal, subjective, and relative, but this contradiction accounts for 21% of the total probability. The system excluded background noise using structural constraints between its own attributes.
+No operation is all internal, subjective, and relative, yet this contradiction accounts for 21% of the total probability. The system excluded background noise using structural constraints between attributes.
 
 Recall the sufficiency constraint. If the environment has infinite ways to kill you, then most structures of matter don't persist. Life has to find the tiny subset of designs that work against perpetual chaos.
 
-The more attributes you add, the more selective the filter becomes. A classification with more types and attributes that selects only 5% of meaning from the chaos suggests that coherent structures are rare.
+Later we will expand our classification. The more attributes we add, the more selective the filter becomes. A classification with more types and attributes that selects only 5% of meaning from the chaos implies that coherent structures are rare.
 
-Protocells did not stop at learning four operations just to listen to the world - they discovered how to act, to respond, in the same four-verb language.
+Protocells did not stop at learning four operations just to attend to the world. There's not much to just listening, but if they can act and respond in the same four-verb language, that's an evolutionary edge.
 
 
 
