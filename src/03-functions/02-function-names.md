@@ -48,7 +48,7 @@ I used "advantage" and "usefulness" as bridge ideas to understand what the Feel 
 
 If you are peckish, focusing on that lecture becomes harder with every minute. It might not be just hunger; you could be coming down with something. Moments later, the fever makes the room suddenly feel too cold, even though it was fine just a moment ago.
 
-The other day, after a long chat with an old friend, the air felt so sweet and delicious at dusk. Later, after a filling dinner, the last baked potato isn't as delicious as the first, when you were predisposed by hunger.
+The other day: eating out and a long chat with an old friend, the air felt so sweet and delicious at dusk. After a filling dinner, the last baked potato isn't as delectable as the first, when you were predisposed to it by hunger.
 
 You are at a concert, energized in anticipation. The band starts playing your favorite song, and it sounds better than ever. A sudden call from your partner, worrying words on the phone. You are anxious to get out to a quiet place. The same song sounds like nothing, worse, a nuisance.
 
