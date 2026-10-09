@@ -26,7 +26,7 @@ So Know and Sense are objective operations (B = 1), while Predict and Feel are s
 
 What is common between Know and Predict, and separates them from Sense and Feel? What is common between Sense and Feel?
 
-Sense stays outside the boundary, Feel stays inside the boundary. These operations preserve the immediate, particular nature of the signal, capturing raw, unmediated experience. They just are, and can be grasped directly without comparison.
+Sense stays outside the boundary, Feel stays inside the boundary. These operations preserve the immediate, particular nature of the signal, capturing raw, unchanged by the boundary, experience. They just are, and can be grasped directly without comparison.
 
 So, Feel and Sense are absolute operations, complete in themselves (A^B = 0).
 
