@@ -56,7 +56,7 @@ You are at a clinic, waiting. Time moves slowly as if minutes take hours. The nu
 
 When our feelings affect our senses, that's Disposition. I chose this word because it works both ways: with peripheral senses, such as warmth or hunger, and with experiential senses, such as time passing.
 
-To wrap my head around the Feel-to-Sense function, I used "time" and "wellbeing" as bridges, but they describe the operation's common content, whereas Disposition describes what the operation does.
+To wrap my head around the Feel-to-Sense function, I used "time" and "wellbeing" as bridges, but they describe the function's common content, whereas Disposition describes what the function does.
 
 ## Sense → Feel: Impact
 
