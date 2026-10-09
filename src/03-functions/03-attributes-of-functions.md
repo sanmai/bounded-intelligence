@@ -2,7 +2,7 @@
 
 To single out a function, one needs exactly three questions, with each question splitting the space in half. The disagreement (XOR) between the questions is also a question, so we end up with seven questions in total.
 
-|       | Impression | Identification | Calibration | Opportunity | Insight | Impact | Emotion | Conviction |
+|       | Impression | Identification | Disposition | Opportunity | Insight | Impact | Emotion | Conviction |
 |-------|------------|----------------|-------------|-------------|---------|--------|---------|------------|
 | A     | 1          | 1              | 1           | 1           | 0       | 0      | 0       | 0          |
 | B     | 1          | 1              | 0           | 0           | 1       | 1      | 0       | 0          |
@@ -29,7 +29,7 @@ How do we tell which function is external or internal? If we look at where a fun
 |--------------------------------|----------------------------------|
 | **Insight**: Sense → Know      | **Impression**: Know → Predict   |
 | **Impact**: Sense → Feel       | **Identification**: Know → Sense |
-| **Conviction**: Predict → Know | **Calibration**: Feel → Sense    |
+| **Conviction**: Predict → Know | **Disposition**: Feel → Sense    |
 | **Emotion**: Predict → Feel    | **Opportunity**: Feel → Predict  |
 
 We also expanded our category powers to include subjective and objective, as well as absolute and relative, distinctions.
@@ -38,7 +38,7 @@ The starting point, the origin of the signal, defines whether an idea is objecti
 
 | Subjective (B = 0)              | Objective (B = 1)                |
 |---------------------------------|----------------------------------|
-| **Calibration**: Feel → Sense   | **Impression**: Know → Predict   |
+| **Disposition**: Feel → Sense   | **Impression**: Know → Predict   |
 | **Opportunity**: Feel → Predict | **Identification**: Know → Sense |
 | **Conviction**: Predict → Know  | **Insight**: Sense → Know        |
 | **Emotion**: Predict → Feel     | **Impact**: Sense → Feel         |
@@ -47,14 +47,14 @@ We can devise a test to determine whether a function is absolute or relative. St
 
 | Absolute (A^B = 0) | Relative (A^B = 1) |
 |--------------------|--------------------|
-| **Impression**     | **Calibration**    |
+| **Impression**     | **Disposition**    |
 | **Identification** | **Opportunity**    |
 | **Conviction**     | **Insight**        |
 | **Emotion**        | **Impact**         |
 
 So Impact is a relative function, and Conviction is an absolute function: it makes intuitive sense, as you can't measure the impact of an explosion without comparing it to some measure, a meter, but you can see my conviction to keep spelling these ideas out – it is just there.
 
-|                              | Impression | Identification | Calibration | Opportunity | Insight   | Impact    | Emotion    | Conviction |
+|                              | Impression | Identification | Disposition | Opportunity | Insight   | Impact    | Emotion    | Conviction |
 |------------------------------|------------|----------------|-------------|-------------|-----------|-----------|------------|------------|
 | External/Internal (A/~A)     | External   | External       | External    | External    | Internal  | Internal  | Internal   | Internal   |
 | Objective/Subjective (B/~B)  | Objective  | Objective      | Subjective  | Subjective  | Objective | Objective | Subjective | Subjective |

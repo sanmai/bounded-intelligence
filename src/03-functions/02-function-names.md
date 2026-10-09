@@ -1,24 +1,24 @@
 # Naming Functions
 
-A bunch of cars are moving erratically, some standing still, and some barely moving. The stopping lights are lighting up and fading, as far as you can see. Clearly, it is a traffic jam. If you know the pattern, you know how to reason about it: every traffic jam has an average flow rate and total length, and if we know the properties of this emergent phenomenon, we can predict when we'll get there. Very useful indeed!
+A bunch of cars move erratically, some standing still, others barely moving. Clearly, it is a traffic jam. If you know the pattern, you know how to reason about it: every traffic jam has an average flow rate and total length, and if we know the properties of this emergent phenomenon, we can predict when we'll get there. Very useful indeed!
 
-The make, model, and exact position of every car on the road describe the recipe of a traffic jam, but do a poor job of explaining the outcome, just as the list of ingredients can't alone explain a Genoise cake from biscuit sponge cake. These cakes have the same ingredients, but eggs, sugar, and flour in the recipe don't tell the whole story; the order of preparation does. Just like this, Know to Sense or Feel to Predict are only recipes, not flavors or textures that emerge from these simple parts.
+The make, model, and exact position of every car on the road describe the recipe of a traffic jam, but they do a poor job of explaining the outcome, just as a list of ingredients alone can't explain a Genoise cake from biscuit sponge cake. These cakes share the same ingredients, but eggs, sugar, and flour don't tell the whole story; the order of preparation does. Just like this, Know to Sense or Feel to Predict are only recipes, not flavors or textures that emerge from these simple parts.
 
 But we can't just use any names for these flavors. If a name, an idea, falls strictly into one of the pre-existing four buckets, it is too primitive to capture the emergent flavor accurately. Rather, good names must follow a cause-and-effect structure, linking concepts from the earlier four buckets.
 
-Ideally, we want the names to be memorable and distinct from each other, while avoiding confusion. Say, if an idea can be subjective or objective depending on the context, it won't work.
+Ideally, the names should be memorable and distinct from each other, while avoiding confusion. For example, if an idea can be subjective or objective depending on the context, it won't do much good.
 
-My actual process for coming up with these mnemonics was much less straightforward and messy. I started with some initial ideas, used them to uncover attributes, and then iterated to find better names. I'll list these bridge ideas where they make sense.
+My actual process for coming up with these mnemonics was much messier and less straightforward. I started with some initial ideas, used them to uncover attributes, and then iterated to find better names. I'll list these bridge ideas where they make sense.
 
 ## Know → Predict: Impression
 
 You are in a windowless room. You know there are three apples in front of you, red, green, and yellow. Now, lit by pure blue light. Your best guess is that one deep-black apple is probably a red variety, and the lighter blueish-gray apples are either green or yellow. Blue light turns off, and a very warm light comes up; now you can see the slight green tint of one of the apples. The warm light cools to daylight, and in a matter of seconds, your vision adjusts so you can tell the green apple from yellow or red.
 
-You are listening to a piano. You hear a note and another, and you start guessing if the melody is somber or playful. Just two notes are probably too few to predict the vibe. A few more notes, and the probability collapses to a melody you know all too well.
+You are listening to a piano. You hear one note, then another, and you start guessing whether the melody is somber or playful. Two notes alone are probably too few to predict the vibe. A few more notes, and the probability collapses to a melody you know all too well.
 
 Photons or sounds, objective external signals, cannot paint the whole picture alone. Only after your eyes or ears can collect a few, can you make a reliable guess, a prediction, about the color or the tone.
 
-I used "color" as a bridge idea to study how the Know to Predict function works. Still, I ultimately settled on Impression as it captures what the function does, internalizes objective signals (like light wavelengths), and externalizes subjective qualities, beyond simply capturing a singular kind of results this function produces.
+I used "color" as a bridge idea to study how the Know to Predict function works. Still, I ultimately settled on Impression because it captures what the function does: it internalizes objective signals (like light wavelengths) and externalizes subjective qualities, rather than simply capturing a single kind of result this function produces, such as color.
 
 ## Know → Sense: Identification
 
@@ -44,19 +44,19 @@ When our internal feelings project meaning into external things to make them use
 
 I used "advantage" and "usefulness" as bridge ideas to understand what the Feel to Predict function produces, before settling on Opportunity.
 
-## Feel → Sense: Calibration
+## Feel → Sense: Disposition
 
 If you are peckish, focusing on that lecture becomes harder with every minute. It might not be just hunger; you could be coming down with something. Moments later, the fever makes the room suddenly feel too cold, even though it was fine just a moment ago.
 
-The other day, feeling great after a long chat with an old friend, the air was so sweet and delicious at dusk. You open a new book, and it is already midnight - it feels like 30 minutes. It has probably been a full hour, or even more, since you plunged into the story.
+The other day, after a long chat with an old friend, the air felt so sweet and delicious at dusk. Later, after a filling dinner, the last baked potato no longer feels as enticing as it did at first, predisposed by hunger.
 
 You are at a concert, energized in anticipation. The band starts playing your favorite song, and it sounds better than ever. A sudden call from your partner, worrying words on the phone. You are anxious to get out to a quiet place. The same song sounds like nothing, worse, a nuisance.
 
-You are at a clinic, waiting. Time moves slowly as if minutes take hours. The nurse comes out with reassuring words. You start to relax, and suddenly, an hour has passed. The improved feelings recalibrated the sense of time.
+You are at a clinic, waiting. Time moves slowly as if minutes take hours. The nurse comes out with reassuring words. You start to relax, and suddenly, an hour has passed. The improved feelings recalibrated the sense of time. You open a new book, and it is already evening - it feels like 30 minutes. It has probably been a full hour, or even more, since you plunged into the story.
 
-When our feelings affect our senses, that's Calibration. I chose this word because it works both ways: with peripheral senses, such as warmth, and with experiential senses, such as time passing.
+When our feelings affect our senses, that's Disposition. I chose this word because it works both ways: with peripheral senses, such as warmth or hunger, and with experiential senses, such as time passing.
 
-To wrap my head around the Feel to Sense function, I used "time" and "wellbeing" as bridges, but they described the operation's common content, whereas Calibration describes what the operation does.
+To wrap my head around the Feel-to-Sense function, I used "time" and "wellbeing" as bridges, but they describe the operation's common content, whereas Disposition describes what the operation does.
 
 ## Sense → Feel: Impact
 
