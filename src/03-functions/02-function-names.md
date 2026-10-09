@@ -2,7 +2,7 @@
 
 A bunch of cars move erratically, some standing still, others barely moving. Clearly, it is a traffic jam. If you know the pattern, you know how to reason about it: every traffic jam has an average flow rate and total length, and if we know the properties of this emergent phenomenon, we can predict when we'll get there. Very useful indeed!
 
-The make, model, and exact position of every car on the road describe the recipe of a traffic jam, but they do a poor job of explaining the outcome, just as a list of ingredients alone can't explain a Genoise cake from biscuit sponge cake. These cakes share the same ingredients, but eggs, sugar, and flour don't tell the whole story; the order of preparation does. Just like this, Know to Sense or Feel to Predict are only recipes, not flavors or textures that emerge from these simple parts.
+The make, model, and exact position of every car on the road describe the recipe of a traffic jam, but they do a poor job of explaining the outcome, just as a list of ingredients alone can't explain a Genoise cake from biscuit sponge cake. These cakes share the same ingredients, but eggs, sugar, and flour don't tell the whole story; the order of preparation does. Just like this, Know-to-Sense or Feel-to-Predict are only recipes, not flavors or textures that emerge from these simple parts.
 
 But we can't just use any names for these flavors. If a name, an idea, falls strictly into one of the pre-existing four buckets, it is too primitive to capture the emergent flavor accurately. Rather, good names must follow a cause-and-effect structure, linking concepts from the earlier four buckets.
 
@@ -28,7 +28,7 @@ But for us, let's focus on the sound reaching your ears. From it, you sensed the
 
 An ancient hominid saw a patch of yellow-orange in the forest and, recognizing it as a tiger, ran off to get help. That's Identification. On New Year's Eve, something flashed in the window glass; that's fireworks. Again, Identification.
 
-To wrap my head around the Know to Sense function, I used "form" as a bridge, but it was too limiting to the inputs and outcomes. Another noteworthy mnemonic is "Effectiveness"; it also focuses on the outcome of recognizing the form or effect, not the function's essence.
+To wrap my head around the Know-to-Sense function, I used "form" as a bridge, but it was too limiting to the inputs and outcomes. Another noteworthy mnemonic is "Effectiveness"; it also focuses on the outcome of recognizing the form or effect, not the function's essence.
 
 ## Feel → Predict: Opportunity
 
@@ -42,7 +42,7 @@ Just like that, speaking is essentially pointing literal sound waves outwards. I
 
 When our internal feelings project meaning onto external things to make them useful, that's Opportunity.
 
-I used "advantage" and "usefulness" as bridge ideas to understand what the Feel to Predict function produces, before settling on Opportunity.
+I used "advantage" and "usefulness" as bridge ideas to understand what the Feel-to-Predict function produces, before settling on Opportunity.
 
 ## Feel → Sense: Disposition
 
