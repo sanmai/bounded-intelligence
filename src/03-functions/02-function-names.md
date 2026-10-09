@@ -94,7 +94,7 @@ A child is trying to catch a butterfly with a net on a stick. The insect flies e
 
 In all cases, nothing has happened, but you feel like it has: a prediction alone, an educated guess, if you like, creates a real physical change in you, your heart racing, your face smiling, your palm sweating, or your neck relaxing.
 
-Projected outcomes creating internal states is a rare case where I didn't need any bridge ideas and settled on Emotion as a mnemonic to capture this deductive temporal process, not long after considering and rejecting specific emotions.
+Projected outcomes creating internal states is a rare case where I didn't need any bridge ideas and settled on Emotion as a mnemonic to capture this inductive spatial process, not long after considering and rejecting specific emotions.
 
 ## Predict → Know: Conviction
 
@@ -106,6 +106,6 @@ You weren't good with plants, but someone gifted you a pot of Haworthia; you lef
 
 Unlike Emotion, which comes like a sudden localized wave, Conviction builds up as temporal, generalized knowledge from multiple past instances. Conviction only requires non-contradiction; so it works the other way around, too.
 
-As bridge ideas, I used "belief" and "friendship," but beliefs are passive (you can believe things for no reason), and personal relationships are too specific to human experience; so I settled on "Conviction" instead, since it captures the inductive temporal process best.
+As bridge ideas, I used "belief" and "friendship," but beliefs are passive (you can believe things for no reason), and personal relationships are too specific to human experience; so I settled on "Conviction" instead, since it captures the deductive temporal process best.
 
 You noticed I mentioned these spatial-temporal inductive-deductive attributes for some functions. Let's get to the bottom of them in the next section.
