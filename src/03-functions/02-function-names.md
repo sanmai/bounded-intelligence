@@ -26,7 +26,7 @@ You are a seeker in a hide-and-seek game. You enter a living room, and after a f
 
 But for us, let's focus on the sound reaching your ears. From it, you sensed the direction the child was hiding. That's what I call Identification. By comparison, if several children were hiding, Impression emerges as you try to guess which suspicious shadow belongs to whom.
 
-An ancient humanid saw a patch of yellow-orange in the forest and, recognizing it as a tiger, ran off to get help. That's Identification. On New Year's Eve, something flashed in the window glass; that's fireworks. Again, Identification.
+An ancient hominid saw a patch of yellow-orange in the forest and, recognizing it as a tiger, ran off to get help. That's Identification. On New Year's Eve, something flashed in the window glass; that's fireworks. Again, Identification.
 
 To wrap my head around the Know to Sense function, I used "form" as a bridge, but it was too limiting to the inputs and outcomes. Another noteworthy mnemonic is "Effectiveness"; it also focuses on the outcome of recognizing the form or effect, not the function's essence.
 
@@ -48,7 +48,7 @@ I used "advantage" and "usefulness" as bridge ideas to understand what the Feel 
 
 If you are peckish, focusing on that lecture becomes harder with every minute. It might not be just hunger; you could be coming down with something. Moments later, the fever makes the room suddenly feel too cold, even though it was fine just a moment ago.
 
-The other day, after a long chat with an old friend, the air felt so sweet and delicious at dusk. Later, after a filling dinner, the last baked potato no longer feels as enticing as it did at first, predisposed by hunger.
+The other day, after a long chat with an old friend, the air felt so sweet and delicious at dusk. Later, after a filling dinner, the last baked potato wasn't as delicious as it was at first, when you were predisposed by hunger.
 
 You are at a concert, energized in anticipation. The band starts playing your favorite song, and it sounds better than ever. A sudden call from your partner, worrying words on the phone. You are anxious to get out to a quiet place. The same song sounds like nothing, worse, a nuisance.
 
