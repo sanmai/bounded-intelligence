@@ -16,7 +16,7 @@ These pairs aren't attributes themselves, only pairings: true attributes must sh
 
 Likewise, if a source has a positive attribute A, but the destination has a negative A, then XOR reports true because the values differ.
 
-| X -> Y                        | Impression | Identification | Calibration | Opportunity | Insight | Impact | Emotion | Conviction |
+| X -> Y                        | Impression | Identification | Disposition | Opportunity | Insight | Impact | Emotion | Conviction |
 |-------------------------------|------------|----------------|-------------|-------------|---------|--------|---------|------------|
 | Internal(X) XOR Internal(Y)   | 1          | 1              | 1           | 1           | 1       | 1      | 1       | 1          |
 | Internal(X) XOR Objective(Y)  | 1          | 0              | 0           | 1           | 1       | 0      | 0       | 1          |
@@ -41,7 +41,7 @@ We already eliminated one row as a non-attribute, and now we can use this observ
 
 If we notice that negation is the same as a pole flip (Objective is not-Subjective), we get a list that matches six of seven earlier proposed attributes.
 
-| X -> Y                        | Impression | Identification | Calibration | Opportunity | Insight | Impact | Emotion | Conviction |
+| X -> Y                        | Impression | Identification | Disposition | Opportunity | Insight | Impact | Emotion | Conviction |
 |-------------------------------|------------|----------------|-------------|-------------|---------|--------|---------|------------|
 | Immediate/Indirect (B^C)      | 0          | 1              | 1           | 0           | 0       | 1      | 1       | 0          |
 | External(X) XOR Objective(Y)  | 0          | 1              | 1           | 0           | 0       | 1      | 1       | 0          |
