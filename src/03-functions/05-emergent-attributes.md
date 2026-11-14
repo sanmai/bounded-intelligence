@@ -94,6 +94,16 @@ So far, no surprises with the inherited attributes. For emergent attributes, we 
 | **Impact**: Sense → Feel         | **Insight**: Sense → Know      |
 | **Conviction**: Predict → Know   | **Emotion**: Predict → Feel    |
 
+What makes Identification, Opportunity, Impact, and Conviction what they are, and what separates Impression, Disposition, Insight, and Emotion from the former?
+
+There are several ways to look at this. For one, the ideas in the first group are certainties, just as a triangle is certainly a triangle when you can see it clearly (Identification); a drinking glass is a certain opportunity for a thirsty person. Likewise, if you are in pain, you don't doubt that (Impact). If you believe this dog is friendly, you are just as certain as you were every time you petted it (Conviction).
+
+Conversely, the second group consists of probabilities and possibilities, edging towards certainty but never reaching it, always guessing. Sunset sky is probably one of the shades between red and orange (Impression); the same room could feel cooler as you just enter it, less cool just a few minutes later (Disposition); that armchair is probably suitable for most people (Insight); this person is probably crying from joy, but sadness is also a possibility (Emotion).
+
+For another, ideas in the first group of deductive derivation. They assign specific labels to the world that are as true as the underlying general principles are. We know them as a priori, rule-based, analytic, explicative, binary classes. We can also recognize them as rational epistemic necessities. Their failure mode is invalidity: if a theory's core proposition becomes invalid, the whole theory falls apart.
+
+The ideas in the second group are of inductive estimation. They paint, color, or overlay the world with general conclusions that are probably true based on specific observations. We know them as a posteriori empirical ampliative degrees of belief. We can also recognize them as arbitrary epistemic contingencies. Their failure mode is sample bias: if you don't have enough data or the data is wrong, the prediction is worth nothing.
+
 ## Attribute A^C
 
 | A^C = 0                        | A^C = 1                          |
