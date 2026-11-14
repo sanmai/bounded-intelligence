@@ -37,8 +37,7 @@ Hiding an idea of Impression, Identification, Disposition, and Opportunity is mu
 
 Here's a similar pair of questions: What do Disposition, Opportunity, Emotion, and Conviction have in common, and what separates them from Impression, Identification, Insight, Impact? What do Impression, Identification, Insight, and Impact have in common?
 
-Observer's internal predictions and feelings define
-Disposition, Opportunity, Emotion, and Conviction. They are epistemologically subjective, arising from purely subjective internal factors. From the subject's perspective, they are how you relate to the world at large, an affordance. Without your expectations, you can't tell whether a tire is inflated (Disposition), whether a screwdriver is useful (Opportunity), whether someone is sad (Emotion), or whether someone deserves your trust (Conviction).
+An observer's internal predictions and feelings define Disposition, Opportunity, Emotion, and Conviction. They are epistemologically subjective, arising from purely subjective internal factors. From the subject's perspective, they are how you relate to the world at large, an affordance. Without your expectations, you can't tell whether a tire is inflated (Disposition), whether a screwdriver is useful (Opportunity), whether someone is sad (Emotion), or whether someone deserves your trust (Conviction).
 
 By comparison, Impression, Identification, Insight, and Impact do not require the subject's feelings or predictions; rather, they are epistemologically objective, stemming from external objective senses and signals. Or how the world relates to you, a substrate. No matter your expectations, the apple is red (Impression), a shape is a triangle (Identification), a key is in your hand (Insight), or the pain is severe (Impact).
 
@@ -100,9 +99,11 @@ There are several ways to look at this. For one, the ideas in the first group ar
 
 Conversely, the second group consists of probabilities and possibilities, edging towards certainty but never reaching it, always guessing. Sunset sky is probably one of the shades between red and orange (Impression); the same room could feel cooler as you just enter it, less cool just a few minutes later (Disposition); that armchair is probably suitable for most people (Insight); this person is probably crying from joy, but sadness is also a possibility (Emotion).
 
-For another, ideas in the first group of deductive derivation. They assign specific labels to the world that are as true as the underlying general principles are. We know them as a priori, rule-based, analytic, explicative, binary classes. We can also recognize them as rational epistemic necessities. Their failure mode is invalidity: if a theory's core proposition becomes invalid, the whole theory falls apart.
+For another, ideas in the first group are conditionally deductive derivations. They assign specific labels to the world that are as true as the underlying general principles are. We know them as rule-based, analytic, explicative, binary classes. Among their failure modes are formal fallacies: if a theory's core proposition becomes invalid, the whole theory falls apart.
 
-The ideas in the second group are of inductive estimation. They paint, color, or overlay the world with general conclusions that are probably true based on specific observations. We know them as a posteriori empirical ampliative degrees of belief. We can also recognize them as arbitrary epistemic contingencies. Their failure mode is sample bias: if you don't have enough data or the data is wrong, the prediction is worth nothing.
+The ideas in the second group are of structurally inductive estimation. They paint, color, or overlay the world with generalized conclusions that are probably true based on specific observations. We know them as empirical ampliative degrees of belief. Among their failure modes are data biases: if you don't have enough measurements or they are wrong, the prediction is worth nothing.
+
+Therefore, Identification, Opportunity, Impact, and Conviction are deductive functions, while Impression, Disposition, Insight, and Emotion are inductive functions. The categorical distinctions are for deductive ideas and inductive ideas.
 
 ## Attribute A^C
 
