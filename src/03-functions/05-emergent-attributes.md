@@ -105,6 +105,13 @@ The ideas in the second group are of structurally inductive estimation. They pai
 
 Therefore, Identification, Opportunity, Impact, and Conviction are deductive functions, while Impression, Disposition, Insight, and Emotion are inductive functions. The categorical distinctions are for deductive ideas and inductive ideas.
 
+| Deduction (C = 0)  | Induction (C = 1) |
+|--------------------|-------------------|
+| **Identification** | **Impression**    |
+| **Opportunity**    | **Disposition**   |
+| **Impact**         | **Insight**       |
+| **Conviction**     | **Emotion**       |
+
 ## Attribute A^C
 
 | A^C = 0                        | A^C = 1                          |
