@@ -13,9 +13,9 @@ We briefly considered how functions inherit attributes from operations and how t
 | **Conviction**: Predict → Know | **Opportunity**: Feel → Predict  |
 
 
-What do Insight, Impact, Emotion, and Conviction have in common, and what separates them from Impression, Identification, Disposition, Opportunity? What is common between Impression, Identification, Disposition, and Opportunity?
+What do Insight, Impact, Emotion, and Conviction have in common, and what separates them from Impression, Identification, Disposition, Opportunity? What do Impression, Identification, Disposition, and Opportunity have in common?
 
-A subject can hide Insight, Impact, Emotion, and Conviction by pure will or skill: an outside observer can't see them fully without crossing the subject's boundary. They are entirely internal. Bringing in Husserl's test, if you can't see the other side of it, it is internal. Conversely, for an outside observer, there's no other side of understanding (Insight), anger (Emotion), pain (Impact), or belief (Conviction).
+A subject can hide Insight, Impact, Emotion, and Conviction by pure will or skill; an outside observer can't fully see them without crossing the subject's boundary. They are entirely internal. Bringing in Husserl's test, if you can't see the other side of it, it is internal. Conversely, for an outside observer, there's no other side of understanding (Insight), anger (Emotion), pain (Impact), or belief (Conviction).
 
 Hiding an idea of Impression, Identification, Disposition, and Opportunity is much harder: a subject can't do that without a tool or an artifact. They are precisely external. Husserl's test: if you can see the other side of it in principle, it is external. Conversely, you can see a ball's color (Impression), identify its shape (Identification), notice whenever it is inflated (Disposition), or recognize its usefulness for a game (Opportunity) from any side.
 
